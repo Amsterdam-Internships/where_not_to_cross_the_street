@@ -1,0 +1,784 @@
+geometry,attribute_id,label_type,osm_street_id,severity,is_temporary,image_capture_date,label_is_temporary,agree_count,disagree_count,notsure_count,label_tags,pc_file_name
+POINT (114126.66452226782 486266.15352398105),419101,Crosswalk,7386863,1.0,False,2021-04,False,1,0,0,['[]'],filtered_2282_9725
+POINT (114127.63708951736 486258.0807337353),419102,Crosswalk,7386863,1.0,False,2021-04,False,3,0,0,['[]'],filtered_2282_9725
+POINT (114155.85284333845 486248.9335374101),419107,Crosswalk,160547138,1.0,False,2020-09,False,2,0,0,['[]'],filtered_2283_9724
+POINT (114165.27186772655 486248.85561291256),419099,Crosswalk,160547127,1.0,False,2020-09,False,2,0,0,['[]'],filtered_2283_9724
+POINT (114174.78304398753 486255.9927611607),419091,Crosswalk,160547127,1.0,False,2020-09,False,3,0,0,['[]'],filtered_2283_9725
+POINT (114179.46084905544 486283.54396552924),419104,Crosswalk,7387174,1.0,False,2021-04,False,1,0,0,['[]'],filtered_2283_9725
+POINT (114181.92754265894 486275.4588314232),419105,Crosswalk,7387174,1.0,False,2021-04,False,2,0,0,['[]'],filtered_2283_9725
+POINT (114230.73623496233 485951.61722338386),419095,Crosswalk,340172226,1.0,False,2020-09,False,3,0,0,"['[]', '[]', '[]', '[]', '[]']",filtered_2284_9719
+POINT (114233.58946058208 485943.10447109694),419094,Crosswalk,340172226,2.0,False,2021-04,False,4,0,0,"['[]', '[]', '[]', '[]', '[]', '[]', ""['paint fading']""]",filtered_2284_9718
+POINT (114235.06001208941 485936.3009757403),414483,Crosswalk,340172226,1.0,False,2021-04,False,2,0,0,"['[]', '[]']",filtered_2284_9718
+POINT (114237.2521696511 485930.34044171666),414478,Crosswalk,340172226,1.0,False,2021-04,False,3,0,0,"['[]', '[]', '[]', '[]', '[]']",filtered_2284_9718
+POINT (114239.86767408586 485963.8511486193),419098,Crosswalk,160547138,2.0,False,2020-09,False,3,0,0,"['[]', '[]']",filtered_2284_9719
+POINT (114244.66249735706 485970.17845590436),419096,Crosswalk,160547138,1.0,False,2021-04,False,3,0,0,"['[]', '[]', '[]', '[]']",filtered_2284_9719
+POINT (114252.91110834104 485918.7507665934),414482,Crosswalk,160547133,2.0,False,2021-04,False,3,0,0,"['[]', '[]']",filtered_2285_9718
+POINT (114254.27598686417 485973.91923732933),419090,Crosswalk,160547127,1.0,False,2020-09,False,4,0,0,"['[]', '[]', '[]']",filtered_2285_9719
+POINT (114260.81017403834 485923.3546309497),414477,Crosswalk,160547133,1.0,False,2021-04,False,2,1,0,"['[]', '[]', '[]']",filtered_2285_9718
+POINT (114263.936912944 485975.53734831663),419093,Crosswalk,160547127,2.0,False,2021-04,False,4,0,0,"['[]', '[]', ""['broken surface']""]",filtered_2285_9719
+POINT (114270.435213355 485924.54859220603),414476,Crosswalk,166276364,1.0,False,2020-09,False,4,0,0,"['[]', '[]', '[]']",filtered_2285_9718
+POINT (114278.344756028 485930.4257763769),414469,Crosswalk,166276364,1.0,False,2020-09,False,3,0,0,"['[]', '[]']",filtered_2285_9718
+POINT (114281.31124869754 485959.2645526932),419097,Crosswalk,7387144,1.0,False,2021-04,False,5,0,0,"['[]', '[]', '[]']",filtered_2285_9719
+POINT (114281.93384501686 485952.0436062628),414479,Crosswalk,7387144,1.0,False,2021-04,False,3,0,0,"['[]', '[]', '[]', '[]', '[]']",filtered_2285_9719
+POINT (114362.22331271289 485994.2524454629),419100,Crosswalk,7387144,1.0,False,2021-04,False,4,0,0,"['[]', '[]']",filtered_2287_9719
+POINT (114365.8433513935 485980.2154864061),414484,Crosswalk,7387144,2.0,False,2021-04,False,4,0,0,"[""['paint fading']"", '[]', '[]', '[]', ""['paint fading']"", ""['paint fading']""]",filtered_2287_9719
+POINT (114371.44928375895 485568.0194008763),414490,Crosswalk,160547134,2.0,False,2019-05,False,4,0,0,"['[]', '[]', '[]', '[]']",filtered_2287_9711
+POINT (114376.21295072565 485531.0522629067),415460,Crosswalk,120817892,1.0,False,2021-04,False,4,0,0,"['[]', '[]']",filtered_2287_9710
+POINT (114377.65719538963 485568.39277967333),414491,Crosswalk,160547134,2.0,False,2019-05,False,4,0,0,"['[]', '[]']",filtered_2287_9711
+POINT (114383.60417513577 485572.58844466246),414489,Crosswalk,160547136,2.0,False,2020-09,False,4,0,0,"['[]', ""['paint fading']"", '[]']",filtered_2287_9711
+POINT (114386.02209121097 485534.7916961708),415462,Crosswalk,160547134,2.0,False,2021-04,False,5,0,0,"['[]', ""['paint fading']"", '[]']",filtered_2287_9710
+POINT (114391.80755751871 485574.64326233754),414487,Crosswalk,444018750,1.0,False,2020-09,False,5,0,0,"['[]', '[]', '[]']",filtered_2287_9711
+POINT (114394.80675788264 485536.4172787529),415461,Crosswalk,7385900,2.0,False,2021-04,False,3,0,0,"['[]', ""['paint fading']"", '[]']",filtered_2287_9710
+POINT (114397.2205362804 485565.2606449088),414492,Crosswalk,444018750,2.0,False,2019-05,False,4,0,0,"['[]', '[]', '[]', '[]']",filtered_2287_9711
+POINT (114400.00153508905 485571.60466190334),414488,Crosswalk,7386902,1.0,False,2020-09,False,4,0,0,"['[]', '[]', '[]', '[]']",filtered_2288_9711
+POINT (114401.78787896674 485559.7051187849),414486,Crosswalk,7386902,2.0,False,2019-05,False,4,0,0,"[""['paint fading']"", ""['paint fading']""]",filtered_2288_9711
+POINT (114402.17607927532 485539.75235074555),415455,Crosswalk,444018751,1.0,False,2021-08,False,3,0,0,"['[]', '[]']",filtered_2288_9710
+POINT (114403.76698439263 485555.4442548628),415454,Crosswalk,7386897,2.0,False,2021-08,False,2,0,0,"[""['bumpy']"", ""['bumpy', 'paint fading', 'rail/tram track']"", '[]']",filtered_2288_9711
+POINT (114405.39682590078 485548.2150499995),415453,Crosswalk,7386897,2.0,False,2021-08,False,5,0,0,"['[]', ""['paint fading']"", '[]', ""['paint fading']"", ""['bumpy']"", '[]', '[]']",filtered_2288_9710
+POINT (114488.93318570202 485601.4352171225),414474,Crosswalk,7386902,1.0,False,2021-08,False,3,0,0,"['[]', '[]']",filtered_2289_9712
+POINT (114495.09926106744 485596.7155781539),414485,Crosswalk,7386902,2.0,False,2021-08,False,1,0,0,"[""['paint fading']""]",filtered_2289_9711
+POINT (114497.5331649042 485580.5661689926),415463,Crosswalk,7386897,2.0,False,2021-08,False,4,0,0,"[""['paint fading']"", '[]', '[]', '[]', ""['paint fading']""]",filtered_2289_9711
+POINT (114562.82329565649 484956.92562990147),419747,Crosswalk,708505386,1.0,False,2022-02,False,4,0,0,['[]'],filtered_2291_9699
+POINT (114562.9499199068 484944.61529781),419785,Crosswalk,7385892,2.0,False,2021-04,False,3,0,0,"['[]', ""['paint fading']""]",filtered_2291_9698
+POINT (114565.23465821007 484933.98512809584),419782,Crosswalk,7385892,2.0,False,2021-08,False,4,0,0,"['[]', ""['uneven surface', 'rail/tram track']""]",filtered_2291_9698
+POINT (114569.99545308751 484924.18360382697),419773,Crosswalk,7385928,1.0,False,2021-04,False,4,0,0,"['[]', '[]', '[]']",filtered_2291_9698
+POINT (114570.51769125756 484916.5390765017),419784,Crosswalk,7385928,1.0,False,2021-03,False,2,0,0,['[]'],filtered_2291_9698
+POINT (114571.99530517412 484958.12390603306),419763,Crosswalk,708505386,1.0,False,2022-02,False,3,0,0,"['[]', '[]']",filtered_2291_9699
+POINT (114576.31222498631 484913.94488867465),419766,Crosswalk,7385928,1.0,False,2021-08,False,3,0,0,"['[]', '[]']",filtered_2291_9698
+POINT (114579.52432502985 484961.03348124004),419762,Crosswalk,7385900,2.0,False,2022-02,False,4,0,0,"[""['paint fading']"", '[]']",filtered_2291_9699
+POINT (114583.13891743169 485624.85730314336),414470,Crosswalk,7386902,2.0,False,2015-07,False,4,0,0,"['[]', ""['paint fading']"", '[]', '[]']",filtered_2291_9712
+POINT (114584.66168551632 484913.87654726976),419746,Crosswalk,7385929,1.0,False,2021-04,False,2,0,0,['[]'],filtered_2291_9698
+POINT (114588.6127524314 484963.93030604493),419753,Crosswalk,7385900,2.0,False,2022-02,False,3,0,0,"[""['paint fading']"", ""['paint fading']""]",filtered_2291_9699
+POINT (114589.0615158579 485614.19734988426),415467,Crosswalk,7386897,2.0,False,2015-07,False,4,0,0,"['[]', '[]', ""['paint fading']"", '[]', ""['paint fading']"", '[]']",filtered_2291_9712
+POINT (114590.44910711788 485609.0924854988),415471,Crosswalk,7386897,1.0,False,2021-08,False,2,0,0,['[]'],filtered_2291_9712
+POINT (114591.19057809666 484917.6432429032),419749,Crosswalk,708505385,2.0,False,2019-04,False,4,0,0,"[""['paint fading']"", ""['paint fading']"", '[]']",filtered_2291_9698
+POINT (114599.57528159516 484953.65360310377),419754,Crosswalk,7385874,2.0,False,2022-02,False,4,0,0,"['[]', ""['paint fading']"", '[]', '[]']",filtered_2291_9699
+POINT (114600.99381665731 484920.5342418163),419748,Crosswalk,708505385,2.0,False,2019-04,False,4,0,0,"['[]', ""['bumpy']""]",filtered_2292_9698
+POINT (114602.50638149968 484942.59370478673),419764,Crosswalk,7385899,2.0,False,2020-08,False,4,0,0,"[""['rail/tram track']"", ""['paint fading']""]",filtered_2292_9698
+POINT (114605.9641760572 485635.2819790164),414468,Crosswalk,7386902,2.0,False,2019-06,False,4,0,0,"['[]', '[]', '[]']",filtered_2292_9712
+POINT (114606.3285597613 484933.2243531371),419765,Crosswalk,7385899,2.0,False,2019-04,False,4,0,0,"['[]', ""['paint fading']"", ""['paint fading']"", '[]']",filtered_2292_9698
+POINT (114611.31152241162 485617.835416242),415451,Crosswalk,7386897,2.0,False,2021-08,False,5,0,0,"[""['paint fading']"", ""['paint fading']"", '[]', '[]', '[]', '[]', ""['paint fading']"", ""['paint fading']"", '[]']",filtered_2292_9712
+POINT (114644.6637307344 486081.49646345654),419092,Crosswalk,7387144,2.0,False,2021-04,False,2,1,0,['[]'],filtered_2292_9721
+POINT (114646.68822776296 486070.8684331073),414472,Crosswalk,7387144,2.0,False,2021-04,False,3,0,0,"['[]', '[]', '[]', '[]']",filtered_2292_9721
+POINT (114667.59248353582 484979.41401837073),419750,Crosswalk,708505387,1.0,False,2020-08,False,4,0,0,"['[]', '[]']",filtered_2293_9699
+POINT (114668.46529793949 484970.9177220696),419755,Crosswalk,708505387,1.0,False,2020-08,False,3,0,0,"['[]', '[]']",filtered_2293_9699
+POINT (114671.52302599073 484959.4323733149),419787,Crosswalk,7385899,2.0,False,2020-08,False,4,0,0,"['[]', ""['rail/tram track']""]",filtered_2293_9699
+POINT (114674.04470494983 486079.55853502225),414473,Crosswalk,7387144,2.0,False,2021-04,False,4,0,0,"[""['paint fading']"", ""['paint fading']"", ""['paint fading']"", ""['paint fading']""]",filtered_2293_9721
+POINT (114675.20714268861 484953.03541193844),419783,Crosswalk,7385899,2.0,False,2022-02,False,4,0,0,"[""['paint fading']"", '[]', '[]']",filtered_2293_9699
+POINT (114690.54887667744 485662.18049921555),414480,Crosswalk,7386902,2.0,False,2021-08,False,4,0,0,"[""['paint fading']"", ""['paint fading']"", '[]', '[]']",filtered_2293_9713
+POINT (114698.9685514482 485643.01111514337),415468,Crosswalk,7386897,2.0,False,2021-08,False,3,0,0,"[""['paint fading']"", '[]', ""['paint fading']"", '[]']",filtered_2293_9712
+POINT (114699.42506037792 484711.7454269741),419768,Crosswalk,148090635,2.0,False,2016-04,False,4,0,0,"['[]', '[]']",filtered_2293_9694
+POINT (114702.13891873966 485649.3521203933),415456,Crosswalk,7386897,2.0,False,2021-08,False,3,0,0,"['[]', ""['paint fading']""]",filtered_2294_9712
+POINT (114706.61430666689 484716.7802613401),419751,Crosswalk,148090635,2.0,False,2016-04,False,4,0,0,"[""['paint fading']"", ""['paint fading']""]",filtered_2294_9694
+POINT (114712.26135794443 484723.9499778055),419756,Crosswalk,7385930,2.0,False,2016-04,False,3,0,0,"['[]', ""['paint fading']""]",filtered_2294_9694
+POINT (114717.31666005446 484730.27561123663),419786,Crosswalk,7385930,1.0,False,2021-04,False,3,0,0,['[]'],filtered_2294_9694
+POINT (114771.02902789577 484658.95327317377),419789,Crosswalk,148090635,1.0,False,2021-04,False,2,2,0,"['[]', '[]']",filtered_2295_9693
+POINT (114779.81373349146 484664.3996753666),419788,Crosswalk,7385930,1.0,False,2021-04,False,2,1,0,"['[]', '[]']",filtered_2295_9693
+POINT (114783.62455291432 485690.70912390976),414475,Crosswalk,7386902,2.0,False,2021-08,False,5,0,0,"[""['paint fading']"", '[]', '[]']",filtered_2295_9713
+POINT (114787.60334020332 485676.6695747509),415465,Crosswalk,7386897,2.0,False,2021-08,False,3,0,0,"[""['paint fading']"", ""['paint fading']"", '[]', '[]', '[]']",filtered_2295_9713
+POINT (114788.4319896124 485670.7204023067),415472,Crosswalk,7386897,1.0,False,2021-08,False,1,0,0,['[]'],filtered_2295_9713
+POINT (114800.64836854266 485016.53030569974),419777,Crosswalk,7385922,2.0,False,2021-03,False,3,0,0,"[""['paint fading']"", '[]', '[]', ""['paint fading']""]",filtered_2296_9700
+POINT (114801.19097165775 485669.7675840012),415452,Crosswalk,7386932,2.0,False,2022-01,False,3,0,0,"['[]', '[]']",filtered_2296_9713
+POINT (114802.17945717307 485005.0574680495),419776,Crosswalk,7385922,2.0,False,2021-03,False,3,1,0,"[""['rail/tram track']"", ""['rail/tram track']""]",filtered_2296_9700
+POINT (114806.49479023818 485000.3533003025),419774,Crosswalk,7385879,2.0,False,2020-06,False,4,0,0,"[""['paint fading']"", '[]']",filtered_2296_9700
+POINT (114810.20117383145 484992.68288467004),419767,Crosswalk,7385879,2.0,False,2020-06,False,4,0,0,"['[]', '[]']",filtered_2296_9699
+POINT (114810.37196249148 485672.2395932255),415458,Crosswalk,7386932,2.0,False,2022-01,False,3,0,0,"['[]', '[]']",filtered_2296_9713
+POINT (114811.6463546966 485701.0924178249),414471,Crosswalk,7387026,2.0,False,2022-01,False,3,0,0,"['[]', '[]', '[]', '[]']",filtered_2296_9714
+POINT (114814.43854854352 485684.9402557788),415470,Crosswalk,7387098,2.0,False,2022-01,False,0,0,1,"['[]', '[]']",filtered_2296_9713
+POINT (114818.42500124217 485679.81430462486),415457,Crosswalk,7387098,2.0,False,2022-01,False,3,0,0,"['[]', '[]']",filtered_2296_9713
+POINT (114881.70406813273 485731.5081349779),414494,Crosswalk,7387026,2.0,False,2022-01,False,3,0,0,"[""['paint fading']""]",filtered_2297_9714
+POINT (114887.60358970397 485725.94223588647),414481,Crosswalk,7387026,2.0,False,2022-01,False,4,0,0,"['[]', ""['paint fading']"", ""['paint fading']"", ""['paint fading']"", ""['paint fading']"", '[]']",filtered_2297_9714
+POINT (114890.63918679787 485715.73056357005),414493,Crosswalk,7387026,3.0,False,2022-02,False,4,0,0,"[""['paint fading']"", ""['rail/tram track', 'paint fading']""]",filtered_2297_9714
+POINT (114893.32982334765 485711.0396593278),415459,Crosswalk,7387098,2.0,False,2022-02,False,4,0,0,"[""['paint fading']"", '[]', ""['paint fading']"", ""['paint fading']"", ""['rail/tram track']"", '[]', ""['rail/tram track', 'uneven surface']""]",filtered_2297_9714
+POINT (114903.34703198547 485348.47065627965),415464,Crosswalk,7386932,1.0,False,2021-03,False,4,0,0,"['[]', '[]', '[]', '[]', '[]', '[]', '[]', ""['paint fading']"", '[]', '[]']",filtered_2298_9706
+POINT (114912.30805890664 485351.79356252943),415466,Crosswalk,7386932,2.0,False,2021-03,False,4,0,0,"['[]', ""['paint fading']"", '[]', '[]', '[]', ""['paint fading']"", '[]']",filtered_2298_9707
+POINT (114916.9859401388 485351.7555857187),415469,Crosswalk,7386932,1.0,False,2018-06,False,2,0,0,"['[]', '[]']",filtered_2298_9707
+POINT (114952.22036180734 485189.75105075765),419758,Crosswalk,7386913,1.0,False,2021-03,False,4,0,0,"['[]', '[]', '[]']",filtered_2299_9703
+POINT (114958.61522091759 485193.09485615714),419775,Crosswalk,7386913,2.0,False,2022-02,False,0,0,0,"['[]', ""['paint fading']""]",filtered_2299_9703
+POINT (114966.32480443787 485194.3057189794),419757,Crosswalk,7386913,1.0,False,2021-03,False,4,0,0,"['[]', '[]', '[]']",filtered_2299_9703
+POINT (114976.62247858342 485077.92068734975),419778,Crosswalk,7385922,2.0,False,2021-03,False,2,1,0,"[""['bumpy']""]",filtered_2299_9701
+POINT (114979.03645890742 485071.1097912685),419780,Crosswalk,7385922,2.0,False,2021-03,False,4,0,0,"['[]', ""['paint fading']"", ""['paint fading']""]",filtered_2299_9701
+POINT (114983.30030714077 485060.03932350944),419770,Crosswalk,7385879,2.0,False,2021-03,False,4,0,0,"[""['paint fading']"", '[]', ""['rail/tram track']"", '[]']",filtered_2299_9701
+POINT (114986.0835172199 485050.6786902262),419769,Crosswalk,7385879,2.0,False,2021-03,False,3,0,0,"['[]', '[]']",filtered_2299_9701
+POINT (114986.36019273616 485080.8129776539),419779,Crosswalk,7385922,2.0,False,2021-03,False,3,0,0,"[""['paint fading']""]",filtered_2299_9701
+POINT (114988.71836074456 485087.1607419244),419781,Crosswalk,7386913,2.0,False,2021-03,False,4,0,1,"[""['paint fading']"", ""['paint fading']"", '[]']",filtered_2299_9701
+POINT (114997.64885478432 485086.66392975446),419759,Crosswalk,7386913,2.0,False,2021-03,False,4,0,0,"[""['paint fading']"", ""['paint fading']""]",filtered_2299_9701
+POINT (115003.83531599314 485052.2327071651),419752,Crosswalk,132486924,2.0,False,2021-03,False,4,0,0,"[""['paint fading']"", ""['paint fading']""]",filtered_2300_9701
+POINT (115014.08164646741 485073.7970906916),419772,Crosswalk,7386459,2.0,False,2021-03,False,4,0,0,"[""['paint fading']"", '[]', ""['uneven surface', 'rail/tram track']"", '[]']",filtered_2300_9701
+POINT (115017.91980055283 485062.305642575),419771,Crosswalk,7386503,2.0,False,2021-03,False,3,0,0,"['[]', ""['paint fading']"", '[]']",filtered_2300_9701
+POINT (115102.63900727118 485112.97983849025),419761,Crosswalk,29291539,2.0,False,2020-06,False,4,0,0,"['[]', '[]', '[]', '[]']",filtered_2302_9702
+POINT (115110.08321337239 485093.3946249133),419760,Crosswalk,7386503,2.0,False,2020-06,False,4,1,0,"[""['paint fading']"", '[]', '[]', ""['paint fading']""]",filtered_2302_9701
+POINT (114126.66452226782 486266.15352398105),418910,CurbRamp,7386863,2.0,False,2021-04,False,0,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2282_9725
+POINT (114126.9541724863 486261.9065269886),418917,CurbRamp,7386863,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2282_9725
+POINT (114128.26559136416 486255.5287707385),418918,CurbRamp,7386863,2.0,False,2021-04,False,1,0,0,"[""['not level with street']""]",filtered_2282_9725
+POINT (114150.60609982169 486246.8546528431),418926,CurbRamp,160547138,2.0,False,2020-09,False,1,0,0,"[""['not level with street']""]",filtered_2283_9724
+POINT (114153.05610343447 486248.53221873485),418925,CurbRamp,160547138,2.0,False,2020-09,False,1,0,0,"[""['not level with street']""]",filtered_2283_9724
+POINT (114157.48383629759 486249.76896242064),418927,CurbRamp,160547138,2.0,False,2020-09,False,1,0,0,"[""['not level with street']""]",filtered_2283_9724
+POINT (114165.17794050292 486249.28084971523),418928,CurbRamp,160547127,2.0,False,2020-09,False,1,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2283_9724
+POINT (114173.47684958467 486255.1546442211),418899,CurbRamp,160547127,2.0,False,2020-09,False,0,0,0,"[""['not level with street']""]",filtered_2283_9725
+POINT (114176.21213527853 486255.9809424547),418898,CurbRamp,160547127,2.0,False,2020-09,False,0,0,0,"[""['not level with street']""]",filtered_2283_9725
+POINT (114178.22224056371 486286.94988687924),418923,CurbRamp,7387174,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2283_9725
+POINT (114180.3167284119 486280.99012903945),418924,CurbRamp,7387174,2.0,False,2021-04,False,1,0,0,"[""['not level with street']""]",filtered_2283_9725
+POINT (114181.34993590138 486276.3125272434),418921,CurbRamp,7387174,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2283_9725
+POINT (114182.33924398638 486274.18204767077),418922,CurbRamp,7387174,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2283_9725
+POINT (114209.37178399615 485917.412479587),414330,CurbRamp,7387283,2.0,False,2021-04,False,3,0,0,"[""['not level with street']""]",filtered_2284_9718
+POINT (114228.55203983159 485954.6064781972),418912,CurbRamp,340172226,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2284_9719
+POINT (114228.68640470783 485951.209692248),418886,CurbRamp,340172226,2.0,False,2021-04,False,4,0,0,"['[]', ""['not level with street']""]",filtered_2284_9719
+POINT (114230.5308316772 485950.3455410615),418887,CurbRamp,340172226,1.0,False,2021-04,False,4,0,0,"['[]', '[]']",filtered_2284_9719
+POINT (114232.09087390495 485946.5125223059),418895,CurbRamp,340172226,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2284_9718
+POINT (114233.26746085624 485931.6467230662),414285,CurbRamp,340172226,2.0,False,2021-04,False,5,0,0,"['[]', '[]']",filtered_2284_9718
+POINT (114233.79580178761 485940.55601008295),418885,CurbRamp,340172226,2.0,False,2020-09,False,5,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']"", '[]']",filtered_2284_9718
+POINT (114233.81520267494 485935.03787614073),414329,CurbRamp,340172226,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']""]",filtered_2284_9718
+POINT (114234.61929057783 485938.0024530075),414287,CurbRamp,340172226,2.0,False,2021-04,False,5,0,0,"[""['points into traffic']"", ""['points into traffic']"", '[]', '[]', ""['not level with street']""]",filtered_2284_9718
+POINT (114235.8255485326 485934.5968164628),414286,CurbRamp,340172226,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2284_9718
+POINT (114237.31713263053 485930.33990532823),414328,CurbRamp,340172226,2.0,False,2021-04,False,4,0,0,"['[]', '[]', ""['not level with street']"", ""['not level with street']""]",filtered_2284_9718
+POINT (114238.88069104584 485926.93131945306),414284,CurbRamp,340172226,1.0,False,2021-04,False,1,0,0,"['[]', ""['tactile warning']""]",filtered_2284_9718
+POINT (114240.36095841757 485968.5161307656),418875,CurbRamp,160547138,2.0,False,2022-03,False,1,0,0,"[""['tactile warning']"", ""['not level with street']"", ""['not level with street']""]",filtered_2284_9719
+POINT (114241.0159747493 485961.29491073417),418876,CurbRamp,160547138,2.0,False,2020-09,False,4,0,0,"['[]', '[]']",filtered_2284_9719
+POINT (114244.20075236518 485969.33334877173),418893,CurbRamp,160547138,2.0,False,2021-04,False,5,0,0,"[""['points into traffic']"", ""['tactile warning']"", ""['not level with street']""]",filtered_2284_9719
+POINT (114247.79470958079 485971.85043720476),418892,CurbRamp,160547138,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']"", ""['tactile warning']"", ""['not level with street']""]",filtered_2284_9719
+POINT (114252.06726508954 485973.9374675266),418883,CurbRamp,160547127,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']"", ""['tactile warning']""]",filtered_2285_9719
+POINT (114253.51329181464 485920.8680938392),414283,CurbRamp,160547133,2.0,False,2021-04,False,4,0,0,"['[]', '[]', '[]']",filtered_2285_9718
+POINT (114255.44180721743 485973.4851558289),418891,CurbRamp,160547127,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2285_9719
+POINT (114257.7859815341 486312.60907408287),418952,CurbRamp,7387174,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2285_9726
+POINT (114258.68836640376 485922.0987622719),414288,CurbRamp,160547133,1.0,False,2020-09,False,1,0,0,"['[]', ""['tactile warning']""]",filtered_2285_9718
+POINT (114258.8517340801 486307.9312203465),418953,CurbRamp,7387174,2.0,False,2021-04,False,1,0,0,"[""['not level with street']""]",filtered_2285_9726
+POINT (114261.01907291665 485925.0507450365),414196,CurbRamp,160547133,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2285_9718
+POINT (114262.6341629484 485975.1236386819),418882,CurbRamp,160547127,2.0,False,2021-04,False,4,0,0,"['[]', '[]', ""['not level with street']"", ""['tactile warning']""]",filtered_2285_9719
+POINT (114264.15227003329 485922.902593371),414194,CurbRamp,160547133,2.0,False,2019-06,False,5,0,0,"[""['points into traffic']"", ""['tactile warning']""]",filtered_2285_9718
+POINT (114266.41598952658 485976.79027125647),418884,CurbRamp,160547127,2.0,False,2020-09,False,0,0,0,"[""['not level with street']""]",filtered_2285_9719
+POINT (114268.61274606697 485924.1391686537),414270,CurbRamp,166276364,1.0,False,2020-09,False,5,0,0,"[""['points into traffic']"", ""['tactile warning']"", '[]', '[]']",filtered_2285_9718
+POINT (114272.81686905731 485925.8023222344),414289,CurbRamp,166276364,2.0,False,2020-09,False,5,0,0,"[""['points into traffic']""]",filtered_2285_9718
+POINT (114276.51524195122 486299.29627431376),418901,CurbRamp,279970322,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2285_9725
+POINT (114277.0095139558 485930.0123308817),414193,CurbRamp,166276364,2.0,False,2020-09,False,4,0,0,"['[]', '[]']",filtered_2285_9718
+POINT (114279.31097407624 486303.5178087159),418902,CurbRamp,279970322,1.0,False,2015-08,False,0,0,0,['[]'],filtered_2285_9726
+POINT (114279.72121856321 485967.3423979418),418896,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"['[]', '[]']",filtered_2285_9719
+POINT (114280.20320241776 485931.2593661991),414282,CurbRamp,166276364,2.0,False,2020-09,False,4,0,0,"['[]', '[]', '[]']",filtered_2285_9718
+POINT (114280.93100070217 485964.3612029181),418897,CurbRamp,7387144,2.0,False,2020-09,False,1,0,0,"[""['not level with street']""]",filtered_2285_9719
+POINT (114281.36473420309 485961.8108684998),418877,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2285_9719
+POINT (114282.45957183142 485956.7083245224),418894,CurbRamp,7387144,2.0,False,2021-04,False,5,0,0,"[""['points into traffic']"", ""['tactile warning']"", ""['not level with street']"", ""['not level with street']""]",filtered_2285_9719
+POINT (114282.59494977878 485949.4913967047),414269,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", ""['not level with street']"", '[]']",filtered_2285_9718
+POINT (114283.01623109385 485953.308057469),414281,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2285_9719
+POINT (114284.51559318867 486300.5036594764),418949,CurbRamp,7386957,2.0,False,2019-06,False,0,0,0,['[]'],filtered_2285_9726
+POINT (114285.11052782458 486274.1822483953),418890,CurbRamp,7386973,2.0,False,2020-06,False,1,0,0,"['[]', ""['not level with street']""]",filtered_2285_9725
+POINT (114285.95298853824 485943.09680953564),414327,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['not enough landing space']"", '[]', ""['not level with street']"", ""['tactile warning']"", ""['not level with street']""]",filtered_2285_9718
+POINT (114286.83446618967 485939.6938642692),414195,CurbRamp,7387144,2.0,False,2020-09,False,0,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2285_9718
+POINT (114300.47659959768 486246.89011298295),418900,CurbRamp,7386973,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2286_9724
+POINT (114309.18362740517 485766.33017651463),414333,CurbRamp,160547134,2.0,False,2020-09,False,4,0,0,"[""['missing tactile warning', 'steep']""]",filtered_2286_9715
+POINT (114312.48635580906 485765.0295788112),414290,CurbRamp,160547134,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2286_9715
+POINT (114313.24445249233 486192.0295651854),418907,CurbRamp,7387102,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2286_9723
+POINT (114315.70192678398 486206.4409391768),418889,CurbRamp,7387084,2.0,False,2019-06,False,1,0,0,"['[]', ""['not level with street']""]",filtered_2286_9724
+POINT (114317.27078120253 485770.08366315026),414334,CurbRamp,160547136,2.0,False,2021-04,False,1,0,0,"[""['not level with street']""]",filtered_2286_9715
+POINT (114318.12741327475 486177.5576945571),418905,CurbRamp,7387102,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2286_9723
+POINT (114321.89729048853 485771.74337870994),414335,CurbRamp,160547136,2.0,False,2021-04,False,4,0,0,"[""['points into traffic', 'surface problem']"", ""['not level with street']""]",filtered_2286_9715
+POINT (114325.94764020768 486137.1695917488),418903,CurbRamp,7387140,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2286_9722
+POINT (114327.34680617685 485786.5545569826),414349,CurbRamp,324002497,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2286_9715
+POINT (114327.9453409389 486170.6854407937),418906,CurbRamp,7387102,2.0,False,2019-06,False,1,0,0,"[""['not level with street']""]",filtered_2286_9723
+POINT (114328.24834259131 485545.02983315533),414192,CurbRamp,7386876,2.0,False,2021-08,False,4,0,0,"['[]', ""['not level with street']""]",filtered_2286_9710
+POINT (114328.31371334003 486128.6609057685),418904,CurbRamp,7387140,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2286_9722
+POINT (114335.83272444183 485527.14007917134),415210,CurbRamp,120817885,2.0,False,2021-08,False,3,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2286_9710
+POINT (114353.25398388301 486064.78655996866),418945,CurbRamp,7387014,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2287_9721
+POINT (114355.0817239067 486085.57002750674),418874,CurbRamp,7387132,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2287_9721
+POINT (114358.79458472591 486074.9279718472),418873,CurbRamp,7387132,2.0,False,2019-06,False,5,0,1,['[]'],filtered_2287_9721
+POINT (114361.6816160518 485995.5302829037),418880,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2287_9719
+POINT (114362.79399700795 485992.5499100312),418879,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"['[]', ""['not level with street']""]",filtered_2287_9719
+POINT (114363.0744275563 485983.2094940059),418916,CurbRamp,7387144,2.0,False,2021-04,False,1,0,0,"[""['not level with street']""]",filtered_2287_9719
+POINT (114364.01397033395 485568.5050499571),414231,CurbRamp,7386876,1.0,False,2021-08,False,5,0,0,['[]'],filtered_2287_9711
+POINT (114364.38764747878 485984.8965221692),418878,CurbRamp,7387144,2.0,False,2021-04,False,5,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2287_9719
+POINT (114365.00932183131 485981.49572960247),414197,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2287_9719
+POINT (114365.41061585105 485978.9456699417),414191,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2287_9719
+POINT (114365.73546567239 485793.4542568907),414332,CurbRamp,324002497,3.0,False,2020-06,False,0,0,0,"[""['not level with street', 'narrow']""]",filtered_2287_9715
+POINT (114366.62639260542 485980.6335007499),414368,CurbRamp,7387144,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2287_9719
+POINT (114367.00323408798 485975.11242651555),414200,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2287_9719
+POINT (114367.4642463143 485569.3255722456),414203,CurbRamp,160547134,1.0,False,2021-08,False,5,0,0,"['[]', '[]']",filtered_2287_9711
+POINT (114367.75497457947 486050.66002203367),418872,CurbRamp,7387088,2.0,False,2020-06,False,2,0,0,"[""['not level with street']"", '[]', ""['not level with street']""]",filtered_2287_9721
+POINT (114367.94317147967 486022.21968842385),418948,CurbRamp,357253499,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2287_9720
+POINT (114369.18646034152 485975.94337642944),414199,CurbRamp,7387144,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2287_9719
+POINT (114370.79173743134 486044.692595642),418946,CurbRamp,7387088,2.0,False,2020-06,False,1,0,0,"[""['not level with street']""]",filtered_2287_9720
+POINT (114371.46674671091 485570.14155271125),414202,CurbRamp,160547134,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2287_9711
+POINT (114374.51329986242 485529.79287043476),415306,CurbRamp,120817885,1.0,False,2021-04,False,0,0,0,['[]'],filtered_2287_9710
+POINT (114377.11650087181 485565.8504737365),414217,CurbRamp,160547134,2.0,False,2019-05,False,4,0,0,"[""['points into traffic']""]",filtered_2287_9711
+POINT (114377.18049005748 485530.1953840943),415304,CurbRamp,120817892,1.0,False,2021-04,False,0,0,0,['[]'],filtered_2287_9710
+POINT (114378.14339772402 485572.20891131664),414280,CurbRamp,160547134,2.0,False,2020-09,False,2,2,0,"[""['points into traffic']"", '[]']",filtered_2287_9711
+POINT (114380.45733437914 486331.12327192875),418914,CurbRamp,7387156,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2287_9726
+POINT (114381.7920634124 485573.4522704175),414201,CurbRamp,160547136,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']"", '[]', '[]']",filtered_2287_9711
+POINT (114381.94506616621 485568.35750251374),414235,CurbRamp,160547136,2.0,False,2019-05,False,5,0,0,"[""['points into traffic']"", ""['points into traffic']""]",filtered_2287_9711
+POINT (114384.32012955041 486050.5237072892),418947,CurbRamp,7387088,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2287_9721
+POINT (114384.48835608686 485533.95539456693),415302,CurbRamp,160547134,2.0,False,2019-05,False,5,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2287_9710
+POINT (114387.43742645824 485533.08221775776),415303,CurbRamp,160547134,2.0,False,2019-05,False,4,0,0,"[""['points into traffic']""]",filtered_2287_9710
+POINT (114387.70518468597 485569.58349601977),414277,CurbRamp,160547136,2.0,False,2019-05,False,4,0,0,"[""['points into traffic']""]",filtered_2287_9711
+POINT (114388.24131874449 485575.52151334396),414276,CurbRamp,160547136,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2287_9711
+POINT (114389.014083227 485716.8600540854),414232,CurbRamp,7387023,2.0,False,2019-05,False,0,0,0,"[""['not level with street']""]",filtered_2287_9714
+POINT (114389.27748231485 485535.6138369674),415305,CurbRamp,160547134,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", '[]']",filtered_2287_9710
+POINT (114391.64183887458 485534.7454720881),415216,CurbRamp,7385900,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2287_9710
+POINT (114393.64759603079 485577.17488332256),414278,CurbRamp,444018750,1.0,False,2020-09,False,0,0,0,['[]'],filtered_2287_9711
+POINT (114394.37956967708 485993.98785014753),418881,CurbRamp,7387144,2.0,False,2021-04,False,5,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2287_9719
+POINT (114394.41311275086 485990.16743952734),414272,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2287_9719
+POINT (114396.17164606866 485986.75730036787),414198,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']""]",filtered_2287_9719
+POINT (114398.22456676528 485537.23808968853),415209,CurbRamp,7385900,2.0,False,2021-08,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']"", '[]']",filtered_2287_9710
+POINT (114398.34243991687 485567.3737142865),414224,CurbRamp,7386902,2.0,False,2019-05,False,5,0,0,"[""['points into traffic']""]",filtered_2287_9711
+POINT (114399.70890769106 485559.7222140292),414219,CurbRamp,7386902,2.0,False,2019-05,False,4,0,0,['[]'],filtered_2287_9711
+POINT (114400.05603238664 485570.33083652076),414275,CurbRamp,7386902,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2288_9711
+POINT (114401.17340122984 485678.55872462626),414234,CurbRamp,7387023,1.0,False,2019-05,False,0,0,0,"[""['not level with street']""]",filtered_2288_9713
+POINT (114401.30847006937 486228.23250734055),418931,CurbRamp,7386975,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2288_9724
+POINT (114401.44022077858 485576.6863406389),414274,CurbRamp,7386902,2.0,False,2021-08,False,4,0,0,"['[]', ""['not level with street']""]",filtered_2288_9711
+POINT (114401.75058340654 486234.595765186),418930,CurbRamp,7386975,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2288_9724
+POINT (114402.34950094315 485564.79400963284),414233,CurbRamp,7386902,2.0,False,2020-09,False,4,0,0,"[""['points into traffic']""]",filtered_2288_9711
+POINT (114402.75998181212 485555.4525348563),415301,CurbRamp,7386897,2.0,False,2019-05,False,3,1,0,"['[]', ""['points into traffic']"", ""['not level with street']"", ""['not level with street']"", ""['not level with street']""]",filtered_2288_9711
+POINT (114403.3390524008 485562.6635776589),414279,CurbRamp,7386902,2.0,False,2021-08,False,4,0,0,"['[]', ""['not level with street']"", ""['not level with street']""]",filtered_2288_9711
+POINT (114403.68107765363 485552.89820681687),415308,CurbRamp,7386897,2.0,False,2021-08,False,5,0,0,"[""['points into traffic']""]",filtered_2288_9711
+POINT (114404.56753769238 485557.984426925),415208,CurbRamp,7386897,2.0,False,2021-08,False,4,0,0,"['[]', '[]', ""['not level with street']""]",filtered_2288_9711
+POINT (114405.70663005707 485550.33479811053),415307,CurbRamp,7386897,2.0,False,2019-05,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2288_9711
+POINT (114405.72077823247 485666.6364768044),414236,CurbRamp,7387023,2.0,False,2019-05,False,0,0,0,"[""['not level with street']""]",filtered_2288_9713
+POINT (114405.94689894133 485555.8507904668),415227,CurbRamp,7386897,2.0,False,2021-08,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']""]",filtered_2288_9711
+POINT (114406.24946690907 485545.2368262851),415309,CurbRamp,7386897,1.0,False,2021-08,False,1,0,0,['[]'],filtered_2288_9710
+POINT (114408.40222536906 485577.90247539955),414222,CurbRamp,7386902,2.0,False,2021-08,False,4,0,0,['[]'],filtered_2288_9711
+POINT (114413.4709069274 485637.28507995885),414223,CurbRamp,7387023,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2288_9712
+POINT (114421.40623727778 485642.31336314534),414225,CurbRamp,7387043,1.0,False,2019-05,False,1,0,0,['[]'],filtered_2288_9712
+POINT (114423.9270786305 485636.77467670065),414226,CurbRamp,7387043,2.0,False,2019-05,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", '[]']",filtered_2288_9712
+POINT (114423.93584341343 485795.94679445756),414331,CurbRamp,324002497,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'missing tactile warning']""]",filtered_2288_9715
+POINT (114427.02864472133 485796.77029493003),414265,CurbRamp,7387045,2.0,False,2019-03,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2288_9715
+POINT (114429.0184958147 485615.9343401721),414221,CurbRamp,7387050,2.0,False,2019-03,False,4,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2288_9712
+POINT (114438.29233491185 485823.4186730114),414266,CurbRamp,7387028,2.0,False,2020-06,False,4,1,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2288_9716
+POINT (114443.74310922966 485383.63429920236),415228,CurbRamp,76179071,3.0,False,2020-06,False,0,0,0,"[""['points into traffic', 'missing tactile warning']""]",filtered_2288_9707
+POINT (114446.39128043017 485773.2659520817),414268,CurbRamp,7387040,2.0,False,2019-03,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2288_9715
+POINT (114449.88766502409 485763.89913132304),414267,CurbRamp,7387040,2.0,False,2019-03,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2288_9715
+POINT (114453.19130121174 485647.9946536017),414228,CurbRamp,7387043,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2289_9712
+POINT (114454.91253030908 485711.22492659173),414220,CurbRamp,7387045,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2289_9714
+POINT (114456.39059697991 486251.1250796662),418932,CurbRamp,7386975,4.0,False,2020-06,False,0,0,0,"[""['narrow', 'not level with street']""]",filtered_2289_9725
+POINT (114462.76531015143 485714.13165748096),414218,CurbRamp,7387045,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2289_9714
+POINT (114467.55019348272 485533.2728124476),415214,CurbRamp,76179069,2.0,False,2020-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2289_9710
+POINT (114470.99576338824 485660.1577799124),414230,CurbRamp,7387043,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2289_9713
+POINT (114471.7311959936 485650.8136430516),414229,CurbRamp,7387043,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2289_9713
+POINT (114473.0977354782 486355.4049470271),418954,CurbRamp,7387139,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2289_9727
+POINT (114473.98025161309 486336.2970189528),418913,CurbRamp,7387139,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2289_9726
+POINT (114474.79553728993 485236.5165880978),415351,CurbRamp,160547134,2.0,False,2021-03,False,0,0,0,"[""['not level with street']""]",filtered_2289_9704
+POINT (114475.44496118295 485529.3878770524),415213,CurbRamp,7386988,2.0,False,2020-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2289_9710
+POINT (114475.73385139948 486079.0601616577),418911,CurbRamp,7387088,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2289_9721
+POINT (114478.18453602158 485237.7621512132),415226,CurbRamp,160547134,2.0,False,2021-03,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2289_9704
+POINT (114478.54027593843 485985.656063962),414358,CurbRamp,165580483,2.0,False,2020-06,False,1,0,0,"[""['not level with street']""]",filtered_2289_9719
+POINT (114480.6732637358 485632.0640491743),414212,CurbRamp,7387045,2.0,False,2019-03,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2289_9712
+POINT (114483.59114986865 485239.41561952303),415238,CurbRamp,160547134,2.0,False,2021-03,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2289_9704
+POINT (114483.64659905159 485622.2770900724),414204,CurbRamp,7387050,2.0,False,2019-03,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']""]",filtered_2289_9712
+POINT (114487.1699535078 485632.0107357718),414227,CurbRamp,7387045,3.0,False,2019-03,False,3,1,0,"[""['narrow', 'points into traffic']""]",filtered_2289_9712
+POINT (114487.72170050994 485754.6748873629),414366,CurbRamp,7387040,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2289_9715
+POINT (114488.012732595 485239.8037991307),415225,CurbRamp,7385900,2.0,False,2021-03,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2289_9704
+POINT (114488.91463214198 485603.13320545724),414206,CurbRamp,7386902,1.0,False,2021-08,False,4,0,0,"['[]', '[]']",filtered_2289_9712
+POINT (114491.11421528319 485598.02164973825),414205,CurbRamp,7386902,1.0,False,2021-08,False,0,0,0,['[]'],filtered_2289_9711
+POINT (114494.93679800583 485584.83205868484),415222,CurbRamp,7386897,2.0,False,2021-08,False,4,0,0,"[""['points into traffic']""]",filtered_2289_9711
+POINT (114497.08883728107 485581.84319100366),415217,CurbRamp,7386897,2.0,False,2021-08,False,3,0,0,"[""['points into traffic']"", ""['not level with street']"", '[]', ""['not level with street']""]",filtered_2289_9711
+POINT (114497.5576936343 485631.07659116306),414213,CurbRamp,7386890,4.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'not enough landing space', 'surface problem']""]",filtered_2289_9712
+POINT (114497.93804551894 485578.4405526252),415320,CurbRamp,7386897,1.0,False,2021-08,False,3,1,0,['[]'],filtered_2289_9711
+POINT (114497.9872729442 485727.0008183921),414364,CurbRamp,7387040,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2289_9714
+POINT (114499.18750569869 485576.3080081201),415215,CurbRamp,7386897,2.0,False,2021-08,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2289_9711
+POINT (114499.58352113812 485711.7071958521),414365,CurbRamp,7387040,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2289_9714
+POINT (114500.20428258373 485244.7972926729),415237,CurbRamp,7385900,2.0,False,2021-03,False,2,1,1,"['[]', ""['not level with street']""]",filtered_2290_9704
+POINT (114501.16048930654 485832.6651163379),414260,CurbRamp,7387028,2.0,False,2020-06,False,4,0,0,"[""['missing tactile warning', 'steep']"", ""['not level with street', 'narrow']""]",filtered_2290_9716
+POINT (114503.9333641036 485410.30563944514),415328,CurbRamp,76179069,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2290_9708
+POINT (114506.97568279729 485698.0638708901),414367,CurbRamp,7387040,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2290_9713
+POINT (114508.16470449186 485633.1118833537),414214,CurbRamp,7386890,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2290_9712
+POINT (114509.35156461236 485682.7638584702),414216,CurbRamp,7387040,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2290_9713
+POINT (114512.44710757196 485996.83827115427),414357,CurbRamp,165580483,2.0,False,2014-06,False,0,0,0,"[""['not level with street']""]",filtered_2290_9719
+POINT (114512.75069533983 485411.9311655717),415289,CurbRamp,76179069,2.0,False,2020-06,False,1,0,0,"[""['not level with street']""]",filtered_2290_9708
+POINT (114513.97003749461 485414.0434614888),415287,CurbRamp,76179071,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2290_9708
+POINT (114514.3419448455 486259.56310603215),418915,CurbRamp,7386975,2.0,False,2020-06,False,0,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2290_9725
+POINT (114516.25654990402 485669.1245443125),414211,CurbRamp,7387040,2.0,False,2018-06,False,0,0,0,"[""['not level with street']""]",filtered_2290_9713
+POINT (114516.29373501606 485546.8800460531),415212,CurbRamp,7386988,1.0,False,2020-06,False,0,0,0,['[]'],filtered_2290_9710
+POINT (114516.75794286802 485409.3515549595),415229,CurbRamp,76179071,2.0,False,2019-05,False,3,0,0,"[""['points into traffic']"", '[]']",filtered_2290_9708
+POINT (114518.69397261817 485641.5147210696),414207,CurbRamp,7386890,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2290_9712
+POINT (114519.76023312795 485553.6429670311),415211,CurbRamp,7386988,2.0,False,2020-06,False,2,2,0,['[]'],filtered_2290_9711
+POINT (114521.32507963883 485677.14770809736),414210,CurbRamp,161250640,2.0,False,2018-06,False,4,0,0,"[""['points into traffic', 'missing tactile warning']""]",filtered_2290_9713
+POINT (114521.4933548173 485634.27596572606),414215,CurbRamp,7386890,2.0,False,2019-03,False,4,0,0,"[""['missing tactile warning', 'points into traffic', 'narrow']""]",filtered_2290_9712
+POINT (114521.67990908991 485839.28818128165),414261,CurbRamp,7387028,2.0,False,2018-06,False,4,0,0,"[""['surface problem', 'points into traffic', 'missing tactile warning']"", ""['points into traffic', 'narrow']"", ""['not level with street']""]",filtered_2290_9716
+POINT (114522.04409339323 486030.2918589792),414187,CurbRamp,7387144,2.0,False,2021-04,False,1,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2290_9720
+POINT (114522.70298930205 486035.37996841845),418888,CurbRamp,7387144,2.0,False,2021-04,False,4,0,1,"[""['not level with street', 'missing tactile warning']"", ""['not level with street']""]",filtered_2290_9720
+POINT (114523.59079489567 485668.21549255087),414209,CurbRamp,161250640,2.0,False,2018-06,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2290_9713
+POINT (114524.73672068956 485827.8027216748),414262,CurbRamp,7387028,2.0,False,2018-06,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2290_9716
+POINT (114525.0010112061 486026.4474810773),414273,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['not level with street', 'missing tactile warning']"", ""['not level with street']""]",filtered_2290_9720
+POINT (114529.0800343104 485834.5584620417),414249,CurbRamp,7387028,3.0,False,2017-09,False,4,0,0,"[""['points into traffic']""]",filtered_2290_9716
+POINT (114532.08291168732 485646.0740096122),414208,CurbRamp,7386890,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2290_9712
+POINT (114534.18777948493 486398.19865362544),418944,CurbRamp,7387174,2.0,False,2021-04,False,1,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2290_9727
+POINT (114534.19712065028 485836.63881305035),414256,CurbRamp,7387069,2.0,False,2018-06,False,3,1,0,"[""['missing tactile warning', 'points into traffic']""]",filtered_2290_9716
+POINT (114535.91979401307 486268.72429280245),418929,CurbRamp,7386975,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2290_9725
+POINT (114538.31083108252 486144.3380754187),418970,CurbRamp,7387076,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2290_9722
+POINT (114539.36289986309 486161.73228808295),418968,CurbRamp,200449138,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2290_9723
+POINT (114539.68441291514 486101.88087902643),418870,CurbRamp,7387088,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2290_9722
+POINT (114542.5842429253 486154.4900765916),418969,CurbRamp,200449138,2.0,False,2020-06,False,1,0,0,"[""['not level with street']""]",filtered_2290_9723
+POINT (114543.62625346781 485120.07494736573),419453,CurbRamp,156211497,1.0,False,2022-02,False,0,0,0,['[]'],filtered_2290_9702
+POINT (114545.2272700737 486033.0730409524),414186,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['missing tactile warning']""]",filtered_2290_9720
+POINT (114546.44885292408 485805.55288959114),414264,CurbRamp,7387036,2.0,False,2019-05,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2290_9716
+POINT (114546.73724980223 486110.31226656865),418967,CurbRamp,7387076,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2290_9722
+POINT (114549.67858869932 485795.3394074035),414263,CurbRamp,7387036,2.0,False,2019-05,False,5,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2290_9715
+POINT (114551.54249395139 485130.6215606366),419452,CurbRamp,7386880,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", ""['missing tactile warning']"", ""['points into traffic']""]",filtered_2291_9702
+POINT (114551.65717188819 485410.33891227114),415286,CurbRamp,76179071,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']""]",filtered_2291_9708
+POINT (114552.46919275558 485422.21710729),415259,CurbRamp,76179071,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']"", '[]', '[]']",filtered_2291_9708
+POINT (114554.25747488457 485128.901487325),419387,CurbRamp,7386880,2.0,False,2019-03,False,1,0,0,"[""['missing tactile warning']""]",filtered_2291_9702
+POINT (114554.48107034029 486381.4784133203),418958,CurbRamp,7387135,2.0,False,2019-06,False,1,0,0,"[""['not level with street']""]",filtered_2291_9727
+POINT (114556.49223359115 485116.1494253392),419449,CurbRamp,152988353,2.0,False,2022-02,False,4,0,0,"[""['missing tactile warning']"", ""['points into traffic', 'not level with street']""]",filtered_2291_9702
+POINT (114557.09666988732 486395.4641488391),418957,CurbRamp,7387174,1.0,False,2019-06,False,0,0,0,"[""['points into traffic']""]",filtered_2291_9727
+POINT (114558.96591210517 485112.73349680245),419451,CurbRamp,152988353,2.0,False,2019-03,False,4,0,1,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2291_9702
+POINT (114560.6647203615 485415.3586360619),415329,CurbRamp,76179071,2.0,False,2020-06,False,3,0,0,"[""['points into traffic']"", ""['missing tactile warning']"", ""['not level with street']""]",filtered_2291_9708
+POINT (114561.05599196174 485744.7355707318),414362,CurbRamp,7387069,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2291_9714
+POINT (114561.99265893167 484946.7454289306),419477,CurbRamp,7385892,2.0,False,2021-04,False,3,1,0,"[""['points into traffic']""]",filtered_2291_9698
+POINT (114562.12502558026 484939.10409289337),419521,CurbRamp,7385892,2.0,False,2021-08,False,3,0,0,"[""['points into traffic']""]",filtered_2291_9698
+POINT (114562.26767250568 484944.6208846104),419475,CurbRamp,7385892,2.0,False,2021-04,False,4,0,0,"[""['points into traffic']""]",filtered_2291_9698
+POINT (114562.72491991633 484936.9768882268),419519,CurbRamp,7385892,1.0,False,2021-08,False,4,0,0,['[]'],filtered_2291_9698
+POINT (114564.83394769466 485563.460636118),415321,CurbRamp,7386988,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2291_9711
+POINT (114566.34741294154 484931.0048076297),419428,CurbRamp,7385928,2.0,False,2021-08,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2291_9698
+POINT (114566.62615051019 486051.9983985243),418869,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['missing tactile warning', 'points into traffic']""]",filtered_2291_9721
+POINT (114567.13876341649 484928.4515774825),419427,CurbRamp,7385928,2.0,False,2021-08,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2291_9698
+POINT (114567.89488172259 484957.30856075906),419471,CurbRamp,708505386,2.0,False,2022-02,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2291_9699
+POINT (114569.5965925073 486351.2179588344),418943,CurbRamp,7387135,2.0,False,2018-06,False,0,0,0,"[""['not level with street']""]",filtered_2291_9727
+POINT (114569.80371408591 485690.3331699285),414246,CurbRamp,161250640,2.0,False,2019-03,False,4,0,0,"[""['missing tactile warning', 'points into traffic']"", '[]']",filtered_2291_9713
+POINT (114570.75779333769 484922.05507026153),419518,CurbRamp,7385928,2.0,False,2021-04,False,3,0,0,"[""['points into traffic']"", '[]']",filtered_2291_9698
+POINT (114571.15611095808 486164.86748356617),418971,CurbRamp,200449138,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2291_9723
+POINT (114571.30729293951 485683.5295131506),414247,CurbRamp,161250640,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'not level with street', 'missing tactile warning']"", ""['not level with street']""]",filtered_2291_9713
+POINT (114571.36620020124 485143.19297308236),419454,CurbRamp,152988355,2.0,False,2019-06,False,4,0,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2291_9702
+POINT (114571.75345647163 484912.70883348555),419520,CurbRamp,7385928,2.0,False,2020-08,False,0,0,0,"[""['not level with street']""]",filtered_2291_9698
+POINT (114574.89020125264 484958.5246649786),419473,CurbRamp,708505386,2.0,False,2022-02,False,2,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2291_9699
+POINT (114575.14991947125 485049.7811131019),419450,CurbRamp,152988352,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2291_9700
+POINT (114575.2271484735 486336.7402215997),418942,CurbRamp,7387135,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2291_9726
+POINT (114575.3782349848 484910.98132548254),419538,CurbRamp,7385928,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2291_9698
+POINT (114577.01233650392 484959.7806682227),419474,CurbRamp,7385900,2.0,False,2022-02,False,3,0,0,"[""['points into traffic']"", '[]']",filtered_2291_9699
+POINT (114577.44221754484 485663.10524824547),414244,CurbRamp,7386890,2.0,False,2018-06,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street', 'points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2291_9713
+POINT (114578.2835809415 484912.6553763637),419522,CurbRamp,7385929,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2291_9698
+POINT (114579.36084922912 485861.73638336256),414259,CurbRamp,7387028,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2291_9717
+POINT (114579.64396911653 485856.64055565593),414257,CurbRamp,7387028,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2291_9717
+POINT (114579.94615395383 485143.5471910093),419455,CurbRamp,7386880,2.0,False,2019-06,False,3,0,1,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2291_9702
+POINT (114580.63145887971 486330.3290746091),418941,CurbRamp,7387135,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2291_9726
+POINT (114581.52015667115 485653.30930573615),414293,CurbRamp,7386890,2.0,False,2018-06,False,4,0,0,"[""['missing tactile warning', 'points into traffic']""]",filtered_2291_9713
+POINT (114581.64298405618 484961.86505645735),419472,CurbRamp,7385900,2.0,False,2022-02,False,2,0,1,"[""['points into traffic']"", '[]']",filtered_2291_9699
+POINT (114582.10206757092 484914.7464133881),419523,CurbRamp,7385929,2.0,False,2021-08,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2291_9698
+POINT (114582.13862559746 485320.1040446329),415349,CurbRamp,7386995,1.0,False,2020-06,False,1,1,0,['[]'],filtered_2291_9706
+POINT (114582.71073123734 485632.076610666),414294,CurbRamp,7386902,1.0,False,2015-07,False,0,0,0,['[]'],filtered_2291_9712
+POINT (114582.78854793584 485625.7090892364),414298,CurbRamp,7386902,2.0,False,2015-07,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2291_9712
+POINT (114583.17018740473 485628.67717778945),414295,CurbRamp,7386902,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2291_9712
+POINT (114583.62217485908 485342.58821367455),415348,CurbRamp,7386995,1.0,False,2020-06,False,1,0,1,['[]'],filtered_2291_9706
+POINT (114584.51486177264 485622.2992859563),414297,CurbRamp,7386902,1.0,False,2015-07,False,0,0,0,['[]'],filtered_2291_9712
+POINT (114585.67911032592 485423.21854306426),415288,CurbRamp,76179071,1.0,False,2020-06,False,4,0,0,['[]'],filtered_2291_9708
+POINT (114586.83752048062 485616.3378482977),415252,CurbRamp,7386897,1.0,False,2021-08,False,3,0,0,"['[]', '[]']",filtered_2291_9712
+POINT (114586.94545187955 484962.6705755057),419478,CurbRamp,7385900,1.0,False,2022-02,False,0,0,0,['[]'],filtered_2291_9699
+POINT (114587.18411551474 484916.40265406464),419426,CurbRamp,7385929,2.0,False,2019-04,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2291_9698
+POINT (114587.38764130097 486282.73429662763),418939,CurbRamp,7386975,2.0,False,2020-06,False,2,0,0,"[""['not level with street']""]",filtered_2291_9725
+POINT (114587.54188065877 486285.7042501712),418938,CurbRamp,7386975,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2291_9725
+POINT (114588.8410787893 485615.04807203385),415253,CurbRamp,7386897,2.0,False,2015-07,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2291_9712
+POINT (114588.87478048587 485611.22766570235),415221,CurbRamp,7386897,2.0,False,2021-08,False,3,0,0,"[""['not level with street', 'missing tactile warning']"", '[]', ""['not level with street']"", '[]']",filtered_2291_9712
+POINT (114589.35341851202 486046.7187942737),414189,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['missing tactile warning', 'not level with street']""]",filtered_2291_9720
+POINT (114589.55575096155 484916.3832456955),419537,CurbRamp,7385929,2.0,False,2021-04,False,0,0,0,['[]'],filtered_2291_9698
+POINT (114589.60533227556 485787.79663390125),414250,CurbRamp,7387036,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2291_9715
+POINT (114589.62568968741 485667.25010261877),414245,CurbRamp,7386890,2.0,False,2019-03,False,5,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2291_9713
+POINT (114589.88325159939 484964.344367403),419476,CurbRamp,152988352,1.0,False,2022-02,False,0,0,1,['[]'],filtered_2291_9699
+POINT (114589.8864644139 485607.8237137301),415251,CurbRamp,7386897,2.0,False,2018-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2291_9712
+POINT (114590.14822181784 485635.8358619027),414292,CurbRamp,7386892,2.0,False,2018-06,False,0,0,0,"[""['not level with street']""]",filtered_2291_9712
+POINT (114592.22616796133 485774.6169514619),414359,CurbRamp,7387036,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2291_9715
+POINT (114592.63170107044 485657.46294315055),414238,CurbRamp,7386890,3.0,False,2018-06,False,4,0,0,"[""['missing tactile warning', 'not level with street', 'points into traffic']""]",filtered_2291_9713
+POINT (114592.76792166945 485277.1467198705),415233,CurbRamp,148895502,2.0,False,2020-06,False,2,1,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2291_9705
+POINT (114593.88915925866 485664.2439955305),414240,CurbRamp,7386890,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'missing tactile warning']""]",filtered_2291_9713
+POINT (114595.56633002375 485758.03571153415),414361,CurbRamp,7387036,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2291_9715
+POINT (114596.97958624901 486272.04429348285),418940,CurbRamp,7386966,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2291_9725
+POINT (114597.30876775876 484918.8665569352),419470,CurbRamp,708505385,2.0,False,2019-04,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2291_9698
+POINT (114597.76166890808 484958.33748393436),419480,CurbRamp,7385874,1.0,False,2020-08,False,1,0,0,['[]'],filtered_2291_9699
+POINT (114600.05565553159 484952.80075617763),419481,CurbRamp,7385874,2.0,False,2022-02,False,3,0,0,"[""['points into traffic']"", '[]', ""['steep', 'not level with street']""]",filtered_2292_9699
+POINT (114600.28815546294 485743.5654635566),414360,CurbRamp,7387036,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2292_9714
+POINT (114601.84669088086 484917.5560557695),419549,CurbRamp,708505385,1.0,False,2022-02,False,0,0,0,['[]'],filtered_2292_9698
+POINT (114601.9783911355 484945.56923306437),419483,CurbRamp,7385874,2.0,False,2022-02,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2292_9698
+POINT (114602.76157441418 484945.98728443746),419482,CurbRamp,7385874,2.0,False,2022-02,False,2,1,0,"[""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2292_9698
+POINT (114604.4256102811 485280.44700318796),415234,CurbRamp,148895502,2.0,False,2020-06,False,3,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2292_9705
+POINT (114604.63464771368 485270.2582850302),415235,CurbRamp,148895502,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']""]",filtered_2292_9705
+POINT (114604.68704759548 484919.23065373424),419550,CurbRamp,708505385,2.0,False,2022-02,False,0,0,0,"[""['not level with street']""]",filtered_2292_9698
+POINT (114605.04342977115 485614.0665653643),415223,CurbRamp,7386897,3.0,False,2021-08,False,0,0,0,"[""['points into traffic']""]",filtered_2292_9712
+POINT (114605.21569554006 485583.50411394855),415323,CurbRamp,7386988,2.0,False,2020-06,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", '[]']",filtered_2292_9711
+POINT (114605.29396592395 485743.9489630474),414248,CurbRamp,7387036,2.0,False,2019-03,False,5,0,0,"[""['missing tactile warning']"", ""['narrow', 'not level with street']""]",filtered_2292_9714
+POINT (114605.51164997848 485639.53027085285),414291,CurbRamp,7386902,2.0,False,2019-06,False,4,0,0,['[]'],filtered_2292_9712
+POINT (114605.70157792191 486262.21034717606),418936,CurbRamp,7386967,2.0,False,2021-04,False,1,0,0,"[""['not level with street']""]",filtered_2292_9725
+POINT (114605.71823061882 484934.0782624326),419469,CurbRamp,7385899,2.0,False,2019-04,False,3,0,0,"[""['points into traffic']"", '[]', ""['not level with street']"", '[]']",filtered_2292_9698
+POINT (114605.82840573005 485575.00992303964),415322,CurbRamp,7386988,2.0,False,2020-06,False,3,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2292_9711
+POINT (114606.1068455584 484937.89520919306),419429,CurbRamp,7385899,2.0,False,2019-04,False,3,0,0,"[""['points into traffic']"", '[]']",filtered_2292_9698
+POINT (114606.19346236995 486258.810646717),418935,CurbRamp,7386967,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2292_9725
+POINT (114606.22057099579 485634.8554223791),414271,CurbRamp,7386902,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2292_9712
+POINT (114606.42113018173 485282.1285127877),415236,CurbRamp,148895502,2.0,False,2020-06,False,1,1,0,['[]'],filtered_2292_9705
+POINT (114608.72839397032 485715.05765112356),414363,CurbRamp,7387036,2.0,False,2019-03,False,1,0,0,"[""['not level with street']""]",filtered_2292_9714
+POINT (114609.3773212219 485572.00967689336),415324,CurbRamp,7386988,2.0,False,2019-03,False,3,1,0,"[""['missing tactile warning', 'points into traffic']""]",filtered_2292_9711
+POINT (114609.63279479241 485619.1225259771),415347,CurbRamp,7386897,2.0,False,2021-08,False,0,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2292_9712
+POINT (114609.85711527121 484927.67753188306),419567,CurbRamp,7385899,1.0,False,2022-02,False,1,0,0,['[]'],filtered_2292_9698
+POINT (114609.86689335777 485631.85437887406),414296,CurbRamp,7386902,2.0,False,2019-06,False,5,0,0,"[""['points into traffic']""]",filtered_2292_9712
+POINT (114611.2785080052 485586.0012677951),415325,CurbRamp,7387119,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2292_9711
+POINT (114612.80800059417 485622.06776393624),415327,CurbRamp,7386897,2.0,False,2018-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2292_9712
+POINT (114613.31508639344 485616.54564991983),415224,CurbRamp,7386897,2.0,False,2018-06,False,4,0,1,"[""['points into traffic']"", ""['not level with street']""]",filtered_2292_9712
+POINT (114613.70612630888 485612.72232094104),415339,CurbRamp,7386897,2.0,False,2018-06,False,1,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2292_9712
+POINT (114614.0059841302 485701.00733049505),414241,CurbRamp,7387036,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2292_9714
+POINT (114614.22064231348 485584.2793654202),415326,CurbRamp,7386988,2.0,False,2019-03,False,5,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2292_9711
+POINT (114615.07976882669 486209.5006492429),418964,CurbRamp,7386966,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2292_9724
+POINT (114617.93103373276 486208.62840535934),418963,CurbRamp,7386966,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2292_9724
+POINT (114618.51503806196 485132.1957048329),419457,CurbRamp,152988353,1.0,False,2022-02,False,0,0,0,['[]'],filtered_2292_9702
+POINT (114618.99984325495 486184.4254783123),418966,CurbRamp,200449138,2.0,False,2019-03,False,1,0,0,"[""['not level with street']""]",filtered_2292_9723
+POINT (114619.13759225166 486260.82704128436),418937,CurbRamp,7386964,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2292_9725
+POINT (114619.30988585015 485706.057455061),414239,CurbRamp,481135290,2.0,False,2019-03,False,5,0,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2292_9714
+POINT (114619.47508242818 485575.32275159075),415250,CurbRamp,7386988,2.0,False,2019-03,False,4,1,0,"[""['missing tactile warning', 'points into traffic']"", '[]', ""['not level with street']""]",filtered_2292_9711
+POINT (114620.2722357109 485676.7619148715),414242,CurbRamp,7387036,2.0,False,2018-06,False,4,0,0,"[""['missing tactile warning', 'surface problem', 'points into traffic']"", ""['not level with street']""]",filtered_2292_9713
+POINT (114620.45843550342 485870.3137133668),414251,CurbRamp,7387028,2.0,False,2019-03,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2292_9717
+POINT (114620.47409887213 485157.2227387994),419458,CurbRamp,7386880,2.0,False,2020-06,False,3,1,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2292_9703
+POINT (114621.60353328769 485700.52072914166),414237,CurbRamp,481135290,2.0,False,2019-03,False,4,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2292_9714
+POINT (114622.05475888509 485866.90498426725),414258,CurbRamp,7387028,2.0,False,2020-06,False,4,0,0,"[""['missing tactile warning']""]",filtered_2292_9717
+POINT (114622.48459760829 486177.6056243882),418965,CurbRamp,200449138,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2292_9723
+POINT (114623.60572498855 485150.8302524076),419479,CurbRamp,7386880,2.0,False,2019-03,False,3,1,0,"[""['missing tactile warning']"", ""['points into traffic']""]",filtered_2292_9703
+POINT (114624.65926626918 485859.66787854314),414253,CurbRamp,7387028,2.0,False,2019-03,False,4,0,0,"[""['points into traffic']"", ""['missing tactile warning', 'points into traffic']"", '[]', ""['not level with street']""]",filtered_2292_9717
+POINT (114625.75360237595 485139.35230910155),419456,CurbRamp,152988353,2.0,False,2022-01,False,3,1,0,"[""['missing tactile warning']"", ""['points into traffic']""]",filtered_2292_9702
+POINT (114628.66899399838 485682.6356727489),414243,CurbRamp,7387036,2.0,False,2018-06,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['missing tactile warning']"", ""['not level with street']""]",filtered_2292_9713
+POINT (114631.19813738382 485157.5595126082),419393,CurbRamp,7386880,2.0,False,2019-03,False,4,0,0,"[""['points into traffic']"", ""['missing tactile warning']""]",filtered_2292_9703
+POINT (114632.95600395885 485289.1273081306),415350,CurbRamp,148895502,2.0,False,2020-06,False,0,0,0,"[""['missing tactile warning']""]",filtered_2292_9705
+POINT (114633.5104589911 485865.5379268262),414252,CurbRamp,7387031,2.0,False,2020-06,False,4,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2292_9717
+POINT (114635.6107342981 486142.26815476845),418962,CurbRamp,7386954,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2292_9722
+POINT (114636.3303853562 485137.56800581707),419459,CurbRamp,152988353,2.0,False,2020-06,False,3,1,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2292_9702
+POINT (114636.68414846763 485498.77944330673),415340,CurbRamp,7386989,2.0,False,2021-03,False,1,1,0,"[""['not level with street']""]",filtered_2292_9709
+POINT (114638.62042074752 486164.7398904164),418961,CurbRamp,7386969,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2292_9723
+POINT (114640.05210981335 485497.47853493266),415341,CurbRamp,7386989,2.0,False,2021-03,False,1,0,0,"[""['not level with street']""]",filtered_2292_9709
+POINT (114640.66687027714 485155.35981847113),419446,CurbRamp,7386880,1.0,False,2019-03,False,3,0,0,"[""['points into traffic']""]",filtered_2292_9703
+POINT (114643.0592829131 485452.03686411097),415319,CurbRamp,76179071,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'missing tactile warning', 'narrow', 'not level with street']"", ""['not level with street']""]",filtered_2292_9709
+POINT (114643.726773972 485835.74226896605),414254,CurbRamp,7387027,2.0,False,2018-06,False,4,0,0,"['[]', ""['points into traffic']"", ""['not level with street']""]",filtered_2292_9716
+POINT (114644.34837334359 486074.7076933611),418871,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2292_9721
+POINT (114645.5340608031 486068.7555714217),414190,CurbRamp,7387144,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2292_9721
+POINT (114645.58388878539 486070.8774603292),414369,CurbRamp,7387144,2.0,False,2021-04,False,1,0,0,"[""['not level with street']""]",filtered_2292_9721
+POINT (114645.66540477634 485146.82979500404),419466,CurbRamp,152988353,2.0,False,2020-06,False,4,0,1,"[""['missing tactile warning']"", ""['points into traffic']""]",filtered_2292_9702
+POINT (114646.95650091386 485443.9402948166),415318,CurbRamp,76179071,2.0,False,2019-03,False,4,0,0,"[""['not level with street', 'missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2292_9708
+POINT (114647.26290541573 485827.22418364906),414255,CurbRamp,7387027,2.0,False,2019-03,False,5,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2292_9716
+POINT (114647.41875569912 485138.75075418554),419460,CurbRamp,152988353,2.0,False,2020-06,False,4,1,0,"[""['points into traffic']"", ""['missing tactile warning']"", ""['not level with street']""]",filtered_2292_9702
+POINT (114647.88432688781 486066.18960442906),414188,CurbRamp,7387144,2.0,False,2021-04,False,4,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2292_9721
+POINT (114648.28845849307 485825.517965109),414302,CurbRamp,7387027,1.0,False,2018-06,False,4,1,0,['[]'],filtered_2292_9716
+POINT (114650.08015880833 486159.9771559265),418960,CurbRamp,7386969,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2293_9723
+POINT (114651.07802949684 486286.0334293017),418933,CurbRamp,7386977,2.0,False,2014-06,False,2,0,0,"[""['not level with street']""]",filtered_2293_9725
+POINT (114653.23237187028 485587.7805435588),415257,CurbRamp,7386988,2.0,False,2019-05,False,4,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2293_9711
+POINT (114653.42676017417 485090.73784970783),419445,CurbRamp,7385858,2.0,False,2020-06,False,3,0,1,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2293_9701
+POINT (114656.55194252077 485775.36426653666),414356,CurbRamp,7387031,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2293_9715
+POINT (114659.66773318173 485091.1113187938),419444,CurbRamp,7385858,2.0,False,2020-06,False,5,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2293_9701
+POINT (114660.37058476589 485590.69342837244),415258,CurbRamp,7386988,2.0,False,2019-05,False,3,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2293_9711
+POINT (114660.49163030327 486269.4025772179),418934,CurbRamp,7386965,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2293_9725
+POINT (114662.37695603349 484495.9987290103),419484,CurbRamp,7385746,2.0,False,2020-08,False,3,0,0,"[""['points into traffic']"", ""['points into traffic']""]",filtered_2293_9689
+POINT (114667.13100062418 485396.23607688677),415315,CurbRamp,7386989,2.0,False,2021-03,False,0,0,0,"[""['missing tactile warning']""]",filtered_2293_9707
+POINT (114668.08088192271 485297.7539074823),415344,CurbRamp,148895502,2.0,False,2020-06,False,0,0,0,"[""['missing tactile warning']""]",filtered_2293_9705
+POINT (114668.34236388523 485723.48393924144),414322,CurbRamp,481135290,2.0,False,2019-03,False,4,0,0,"[""['missing tactile warning']"", ""['points into traffic', 'missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2293_9714
+POINT (114668.8819959955 484966.245276638),419516,CurbRamp,708505387,2.0,False,2020-08,False,4,0,0,"['[]', ""['not level with street']""]",filtered_2293_9699
+POINT (114668.93007664522 485552.8466647131),415232,CurbRamp,163146297,2.0,False,2019-05,False,1,0,0,"[""['not level with street']"", ""['not level with street']""]",filtered_2293_9711
+POINT (114669.07434345217 484973.8839563989),419515,CurbRamp,708505387,2.0,False,2020-08,False,3,0,0,"[""['points into traffic']"", '[]']",filtered_2293_9699
+POINT (114670.133865224 484968.3573442118),419517,CurbRamp,708505387,2.0,False,2020-08,False,2,0,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2293_9699
+POINT (114670.69888268327 485037.5394484519),419464,CurbRamp,160398372,2.0,False,2020-06,False,4,0,0,"[""['missing tactile warning']"", ""['points into traffic']""]",filtered_2293_9700
+POINT (114671.2176265076 486083.4017624245),418959,CurbRamp,7387144,2.0,False,2021-04,False,1,0,0,"[""['not level with street']""]",filtered_2293_9721
+POINT (114671.83368020528 485172.5079755671),419386,CurbRamp,7386880,2.0,False,2022-01,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2293_9703
+POINT (114672.18136839542 485716.23677747743),414321,CurbRamp,481135290,2.0,False,2019-03,False,4,0,0,"[""['missing tactile warning']"", ""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2293_9714
+POINT (114672.72507726385 484959.42255656543),419468,CurbRamp,7385899,2.0,False,2020-08,False,2,1,0,"['[]', '[]']",filtered_2293_9699
+POINT (114673.29071922347 486078.71577569784),414370,CurbRamp,7387144,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2293_9721
+POINT (114674.22353013697 486073.614645116),414371,CurbRamp,7387144,2.0,False,2021-04,False,0,0,0,"[""['not level with street']""]",filtered_2293_9721
+POINT (114674.97150088253 484956.00854469306),419514,CurbRamp,7385899,2.0,False,2020-08,False,3,0,0,"[""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2293_9699
+POINT (114675.53986038483 485399.5630648849),415316,CurbRamp,7387123,2.0,False,2009-08,False,4,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']"", ""['missing tactile warning']""]",filtered_2293_9707
+POINT (114675.81877661678 484948.3613754825),419467,CurbRamp,7385899,2.0,False,2022-02,False,0,0,0,"[""['not level with street']""]",filtered_2293_9698
+POINT (114676.01165167656 485039.6183533776),419443,CurbRamp,160398372,2.0,False,2020-06,False,4,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2293_9700
+POINT (114676.54600686146 485391.4901326692),415317,CurbRamp,7387123,2.0,False,2021-03,False,4,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2293_9707
+POINT (114678.05590722847 485687.75004775164),414319,CurbRamp,7386890,2.0,False,2018-06,False,3,1,1,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2293_9713
+POINT (114678.10661634523 485697.9366477678),414320,CurbRamp,7387031,2.0,False,2018-06,False,4,0,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2293_9713
+POINT (114680.52460104352 485516.6729695394),415231,CurbRamp,163146297,2.0,False,2019-05,False,3,1,1,"[""['points into traffic']""]",filtered_2293_9710
+POINT (114681.33229565073 485177.94836854946),419388,CurbRamp,7386880,2.0,False,2022-01,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2293_9703
+POINT (114685.86598196186 485816.7217933225),414303,CurbRamp,7387027,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2293_9716
+POINT (114686.48816003914 484719.0668055678),419535,CurbRamp,7385698,1.0,False,2019-06,False,0,0,0,['[]'],filtered_2293_9694
+POINT (114688.9447139212 484988.1532932097),419462,CurbRamp,7385858,2.0,False,2021-03,False,3,2,0,"[""['missing tactile warning']""]",filtered_2293_9699
+POINT (114690.3340901226 485699.53463629144),414318,CurbRamp,7386890,2.0,False,2018-06,False,4,0,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2293_9713
+POINT (114690.79228929321 485668.12093635945),414324,CurbRamp,7386902,1.0,False,2021-08,False,4,0,0,"['[]', '[]']",filtered_2293_9713
+POINT (114691.11444817706 485484.75209527754),415242,CurbRamp,7387123,2.0,False,2020-06,False,2,1,0,['[]'],filtered_2293_9709
+POINT (114691.39344110363 485662.1736038905),414326,CurbRamp,7386902,2.0,False,2021-08,False,5,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2293_9713
+POINT (114691.5186121191 485665.56825307163),414325,CurbRamp,7386902,2.0,False,2021-08,False,4,0,0,"['[]', '[]']",filtered_2293_9713
+POINT (114691.54732565282 485804.36609324027),414352,CurbRamp,7387027,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2293_9716
+POINT (114691.7018520534 484979.64161930955),419461,CurbRamp,7385858,2.0,False,2021-03,False,3,1,0,"[""['missing tactile warning']"", ""['points into traffic']""]",filtered_2293_9699
+POINT (114693.13548152079 484725.3794187882),419536,CurbRamp,7385698,3.0,False,2021-04,False,0,0,0,"[""['points into traffic']""]",filtered_2293_9694
+POINT (114693.90239683707 484962.64532325394),419463,CurbRamp,7385899,2.0,False,2021-03,False,0,0,0,['[]'],filtered_2293_9699
+POINT (114694.08411367194 485307.30412403785),415263,CurbRamp,148895502,2.0,False,2021-03,False,4,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2293_9706
+POINT (114694.18483437439 485657.9062261492),414323,CurbRamp,7386902,2.0,False,2021-08,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2293_9713
+POINT (114695.20439508551 485790.75354863214),414353,CurbRamp,7387027,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2293_9715
+POINT (114697.26689811466 484710.0652067546),419545,CurbRamp,148090635,1.0,False,2021-04,False,0,0,0,['[]'],filtered_2293_9694
+POINT (114697.4769275767 485297.0894232951),415262,CurbRamp,148895502,2.0,False,2021-03,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2293_9705
+POINT (114698.92783623125 485645.98265955853),415297,CurbRamp,7386897,2.0,False,2021-08,False,4,0,0,"[""['points into traffic']"", '[]', ""['missing tactile warning']"", ""['not level with street']""]",filtered_2293_9712
+POINT (114699.02051893307 485649.3775739708),415298,CurbRamp,7386897,2.0,False,2021-08,False,3,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2293_9712
+POINT (114699.11043609105 485449.4567483697),415311,CurbRamp,7387123,2.0,False,2021-03,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2293_9708
+POINT (114699.20400682319 484955.3862612382),419465,CurbRamp,132486925,1.0,False,2020-06,False,0,0,0,['[]'],filtered_2293_9699
+POINT (114699.7568825467 484712.59163540654),419503,CurbRamp,148090635,1.0,False,2021-04,False,0,0,0,['[]'],filtered_2293_9694
+POINT (114700.24437441438 485775.43188290513),414354,CurbRamp,7387027,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2294_9715
+POINT (114700.30860245731 485640.02896484896),415296,CurbRamp,7386897,2.0,False,2021-08,False,1,0,0,"['[]', ""['not level with street']""]",filtered_2294_9712
+POINT (114703.18929130897 485606.89766224695),415256,CurbRamp,7386988,2.0,False,2021-03,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2294_9712
+POINT (114703.62066346896 485611.9876475345),415346,CurbRamp,7386988,2.0,False,2021-03,False,0,0,0,"[""['not level with street']""]",filtered_2294_9712
+POINT (114704.08177264509 484732.9303351416),419547,CurbRamp,67553182,3.0,False,2019-06,False,0,0,0,"[""['points into traffic']""]",filtered_2294_9694
+POINT (114704.51519580404 485761.3898776128),414355,CurbRamp,7387027,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2294_9715
+POINT (114706.0225701536 484715.93617315515),419524,CurbRamp,148090635,2.0,False,2016-04,False,3,0,0,"[""['points into traffic']"", '[]', '[]']",filtered_2294_9694
+POINT (114706.23150119664 485450.2475469988),415314,CurbRamp,7387123,3.0,False,2021-03,False,2,1,0,"[""['not enough landing space', 'points into traffic']""]",filtered_2294_9709
+POINT (114708.8305161283 484717.61109572015),419502,CurbRamp,148090635,2.0,False,2016-04,False,3,0,0,"[""['points into traffic']""]",filtered_2294_9694
+POINT (114709.12481808041 485896.33021896554),414304,CurbRamp,7387028,2.0,False,2020-06,False,3,1,0,"[""['missing tactile warning', 'points into traffic']"", ""['missing tactile warning']"", ""['not level with street']""]",filtered_2294_9717
+POINT (114709.27889993723 484923.89413340087),419551,CurbRamp,132486925,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2294_9698
+POINT (114710.75991929004 484723.11331052147),419500,CurbRamp,7385930,2.0,False,2016-04,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2294_9694
+POINT (114711.73150204464 484555.4444424339),419485,CurbRamp,37827981,2.0,False,2020-08,False,0,0,1,"[""['not level with street']""]",filtered_2294_9691
+POINT (114712.1360894401 485409.4513301521),415312,CurbRamp,7387123,2.0,False,2021-03,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2294_9708
+POINT (114712.6498484533 484675.9830402616),419497,CurbRamp,7385705,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2294_9693
+POINT (114713.51561637808 485606.38893319265),415255,CurbRamp,7386988,2.0,False,2021-03,False,2,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2294_9712
+POINT (114713.7116668112 484726.48489522416),419501,CurbRamp,7385930,2.0,False,2021-04,False,3,0,0,"[""['points into traffic']"", '[]']",filtered_2294_9694
+POINT (114714.29125920706 485733.29580719216),414346,CurbRamp,7387027,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2294_9714
+POINT (114714.40788852712 485405.1882071736),415313,CurbRamp,7387123,2.0,False,2021-03,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2294_9708
+POINT (114714.9335012688 484752.7913335438),419548,CurbRamp,67553182,1.0,False,2019-06,False,0,0,0,['[]'],filtered_2294_9695
+POINT (114714.96357559855 484728.5969733605),419546,CurbRamp,7385930,1.0,False,2021-04,False,0,0,0,['[]'],filtered_2294_9694
+POINT (114715.34263512504 485165.3614860114),419380,CurbRamp,152988353,1.0,False,2022-02,False,0,0,0,['[]'],filtered_2294_9703
+POINT (114718.47558707706 485708.64304905606),414301,CurbRamp,7386890,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'missing tactile warning', 'not level with street']"", ""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2294_9714
+POINT (114718.8816785238 485567.29494081374),415254,CurbRamp,163146291,2.0,False,2019-05,False,3,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['narrow', 'points into traffic', 'missing tactile warning', 'not enough landing space']"", ""['not level with street']""]",filtered_2294_9711
+POINT (114720.37202055939 484674.64667570277),419499,CurbRamp,7385705,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2294_9693
+POINT (114720.74577006901 485740.0344866767),414345,CurbRamp,7387016,3.0,False,2019-03,False,4,0,0,"[""['not enough landing space', 'points into traffic']""]",filtered_2294_9714
+POINT (114721.84433236546 485277.3654962404),415345,CurbRamp,35720604,1.0,False,2021-03,False,0,0,0,['[]'],filtered_2294_9705
+POINT (114723.28898896382 485733.2223958376),414339,CurbRamp,7387016,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'surface problem']""]",filtered_2294_9714
+POINT (114726.29500318106 484863.05779574416),419552,CurbRamp,132486925,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2294_9697
+POINT (114726.64416532771 485893.64051722933),414305,CurbRamp,7387028,2.0,False,2020-06,False,4,0,0,"[""['surface problem', 'missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2294_9717
+POINT (114729.64388034507 485186.04329749313),419383,CurbRamp,7386880,2.0,False,2019-06,False,3,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2294_9703
+POINT (114729.77140103365 485711.52211294835),414347,CurbRamp,7387027,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'narrow']"", ""['points into traffic', 'missing tactile warning']"", ""['not level with street']""]",filtered_2294_9714
+POINT (114731.46986086397 485736.5513346202),414340,CurbRamp,7387016,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2294_9714
+POINT (114733.89668437415 485173.69931976346),419381,CurbRamp,152988353,2.0,False,2022-02,False,4,0,0,"[""['missing tactile warning']"", ""['not level with street', 'points into traffic']"", ""['not level with street']""]",filtered_2294_9703
+POINT (114736.4402278304 485166.88724334445),419382,CurbRamp,152988353,2.0,False,2022-02,False,4,0,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2294_9703
+POINT (114738.83484499615 485193.6086017651),419384,CurbRamp,7386880,2.0,False,2018-06,False,2,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2294_9703
+POINT (114739.54071391033 485331.9763288894),415269,CurbRamp,7387007,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2294_9706
+POINT (114740.94073091651 485714.8266928465),414348,CurbRamp,7386890,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2294_9714
+POINT (114741.01208161321 485500.47441684693),415243,CurbRamp,7386981,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2294_9710
+POINT (114741.3632002698 485188.91894381377),419385,CurbRamp,7386880,2.0,False,2019-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2294_9703
+POINT (114743.54381906847 485177.44078672363),419379,CurbRamp,152988353,3.0,False,2020-06,False,3,1,0,"[""['not level with street', 'points into traffic']""]",filtered_2294_9703
+POINT (114745.92584216126 484800.0779226003),419528,CurbRamp,132486925,2.0,False,2020-06,False,1,0,0,"[""['not level with street']""]",filtered_2294_9696
+POINT (114746.33390594684 485742.7970046595),414342,CurbRamp,7387016,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2294_9714
+POINT (114746.9320222685 485170.62182963826),419404,CurbRamp,152988353,2.0,False,2022-02,False,3,0,1,"[""['missing tactile warning']"", ""['points into traffic']""]",filtered_2294_9703
+POINT (114753.06009391189 485623.4692322723),415285,CurbRamp,7386988,2.0,False,2021-03,False,3,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2295_9712
+POINT (114753.74619986632 485121.7535656792),419447,CurbRamp,7385857,2.0,False,2020-06,False,4,1,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2295_9702
+POINT (114753.81209701825 485835.2680848216),414350,CurbRamp,7387038,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2295_9716
+POINT (114754.50291700652 484800.00801511365),419527,CurbRamp,132486925,2.0,False,2020-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2295_9696
+POINT (114755.93861408182 485291.09462921787),415261,CurbRamp,7387007,2.0,False,2021-03,False,0,0,0,"[""['points into traffic']""]",filtered_2295_9705
+POINT (114756.55920122738 484641.6683854057),419486,CurbRamp,7385705,2.0,False,2019-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2295_9692
+POINT (114757.08894465906 485794.91777314676),414351,CurbRamp,7387038,3.0,False,2020-06,False,0,0,0,"[""['not level with street', 'narrow']""]",filtered_2295_9715
+POINT (114757.79185822755 485123.84288533457),419408,CurbRamp,7385857,2.0,False,2020-06,False,4,1,0,"[""['missing tactile warning']"", ""['points into traffic']""]",filtered_2295_9702
+POINT (114757.88824499329 485442.61045915907),415266,CurbRamp,7386981,2.0,False,2020-06,False,2,2,0,"[""['points into traffic']""]",filtered_2295_9708
+POINT (114759.98945733372 485624.6861274558),415284,CurbRamp,7386988,2.0,False,2021-03,False,3,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']""]",filtered_2295_9712
+POINT (114763.99536693463 485442.5606878744),415240,CurbRamp,7386981,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']""]",filtered_2295_9708
+POINT (114765.2746357012 485204.85347014456),419390,CurbRamp,7386880,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2295_9704
+POINT (114767.7621112226 485426.4005653607),415241,CurbRamp,7386981,2.0,False,2021-03,False,1,0,0,"[""['not level with street']""]",filtered_2295_9708
+POINT (114768.20454379532 485755.7769603518),414344,CurbRamp,7387016,2.0,False,2020-06,False,4,0,0,"[""['points into traffic', 'surface problem', 'missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2295_9715
+POINT (114768.32682645202 484654.3062475389),419487,CurbRamp,148090635,2.0,False,2022-02,False,3,0,0,"['[]', ""['not level with street']"", ""['not level with street']""]",filtered_2295_9693
+POINT (114769.71004537675 485581.736575508),415282,CurbRamp,163146288,3.0,False,2021-03,False,2,1,0,"[""['not level with street']""]",filtered_2295_9711
+POINT (114769.93611796231 484656.4154278715),419492,CurbRamp,148090635,2.0,False,2022-02,False,3,0,0,"[""['points into traffic']""]",filtered_2295_9693
+POINT (114770.53889311451 485069.40834522154),419448,CurbRamp,160398372,2.0,False,2020-06,False,5,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2295_9701
+POINT (114771.156260625 485747.2637302683),414343,CurbRamp,7387016,2.0,False,2020-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2295_9714
+POINT (114771.2785745482 484657.6778662535),419488,CurbRamp,148090635,2.0,False,2021-04,False,2,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2295_9693
+POINT (114773.0203780568 485074.906087925),419417,CurbRamp,7385857,2.0,False,2020-06,False,4,0,0,"[""['missing tactile warning']""]",filtered_2295_9701
+POINT (114773.73605678903 484660.2045966156),419489,CurbRamp,148090635,2.0,False,2022-02,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2295_9693
+POINT (114774.30640031435 485627.54067240236),415283,CurbRamp,7386988,1.0,False,2021-03,False,0,0,0,['[]'],filtered_2295_9712
+POINT (114775.29423263023 485206.4696712364),419389,CurbRamp,7386880,2.0,False,2019-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2295_9704
+POINT (114775.85478189551 484641.0867277301),419495,CurbRamp,7385707,1.0,False,2020-08,False,0,0,0,['[]'],filtered_2295_9692
+POINT (114776.56476378176 485015.45304820314),419414,CurbRamp,7385922,2.0,False,2021-03,False,2,1,1,"[""['missing tactile warning']""]",filtered_2295_9700
+POINT (114777.34450778097 484664.4197858969),419491,CurbRamp,7385930,2.0,False,2022-02,False,3,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2295_9693
+POINT (114777.37072223527 485728.53690670314),414316,CurbRamp,7387038,3.0,False,2019-03,False,4,1,0,"[""['missing tactile warning', 'surface problem', 'not enough landing space', 'points into traffic']"", ""['points into traffic', 'not enough landing space']"", ""['not level with street']""]",filtered_2295_9714
+POINT (114779.52559502321 485717.90788006247),414317,CurbRamp,7386890,2.0,False,2019-03,False,4,0,0,"[""['points into traffic', 'missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2295_9714
+POINT (114780.51675909171 484666.9406980517),419490,CurbRamp,7385930,2.0,False,2021-04,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2295_9693
+POINT (114780.66192518169 484664.8172256171),419494,CurbRamp,7385930,2.0,False,2022-02,False,3,0,0,"[""['points into traffic']""]",filtered_2295_9693
+POINT (114781.84144214907 485691.1481076553),414313,CurbRamp,7386902,2.0,False,2021-08,False,4,0,0,"['[]', ""['not level with street']""]",filtered_2295_9713
+POINT (114782.29757160481 485687.324262604),414312,CurbRamp,7386902,2.0,False,2021-08,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2295_9713
+POINT (114782.43117465949 485013.7074328588),419422,CurbRamp,7385922,2.0,False,2021-03,False,2,1,1,"[""['missing tactile warning']""]",filtered_2295_9700
+POINT (114782.74680358544 484669.469285121),419498,CurbRamp,7385930,2.0,False,2022-02,False,3,0,0,"[""['not level with street']""]",filtered_2295_9693
+POINT (114784.09314462126 485692.40314225253),414310,CurbRamp,7386902,2.0,False,2021-08,False,4,0,0,"[""['points into traffic']""]",filtered_2295_9713
+POINT (114784.13695593641 484648.659520959),419493,CurbRamp,148090635,3.0,False,2021-04,False,0,0,0,"[""['points into traffic']""]",filtered_2295_9692
+POINT (114784.72038394862 484672.42441966664),419496,CurbRamp,7385930,1.0,False,2022-02,False,3,0,0,['[]'],filtered_2295_9693
+POINT (114787.87357606262 485677.9407501721),415276,CurbRamp,7386897,2.0,False,2021-08,False,4,0,1,"[""['points into traffic']"", ""['points into traffic']"", '[]', ""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2295_9713
+POINT (114788.55155190993 485669.4460521021),415338,CurbRamp,7386897,2.0,False,2021-08,False,1,0,0,"[""['not level with street']""]",filtered_2295_9713
+POINT (114789.17427394041 485674.1100271865),415333,CurbRamp,7386897,2.0,False,2021-08,False,4,0,0,"[""['not enough landing space']"", ""['not level with street']""]",filtered_2295_9713
+POINT (114790.31890486335 485351.93656481727),415267,CurbRamp,7386998,2.0,False,2021-03,False,1,0,0,"[""['not level with street']""]",filtered_2295_9707
+POINT (114790.70865363805 485702.9607303095),414311,CurbRamp,7387038,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2295_9714
+POINT (114791.30859369162 485720.7831153779),414315,CurbRamp,7387038,2.0,False,2019-03,False,0,0,0,"[""['not level with street']""]",filtered_2295_9714
+POINT (114792.95036275109 485511.51157618675),415245,CurbRamp,7386874,2.0,False,2021-03,False,1,0,0,"[""['not level with street']""]",filtered_2295_9710
+POINT (114797.8604056405 485667.6724087628),415277,CurbRamp,7386897,2.0,False,2022-01,False,4,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2295_9713
+POINT (114798.71500631976 485022.4884612219),419419,CurbRamp,7385922,2.0,False,2021-03,False,4,0,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2295_9700
+POINT (114800.79635835653 484986.8170214619),419568,CurbRamp,132486923,1.0,False,2020-06,False,0,0,0,['[]'],filtered_2296_9699
+POINT (114802.29006965496 484998.68969346076),419415,CurbRamp,7385879,2.0,False,2022-02,False,0,0,0,"[""['points into traffic']""]",filtered_2296_9699
+POINT (114802.62665069173 485016.089743101),419421,CurbRamp,7385922,2.0,False,2021-03,False,4,0,0,"[""['points into traffic']"", '[]']",filtered_2296_9700
+POINT (114802.97705018989 484807.67791092844),419529,CurbRamp,387403774,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2296_9696
+POINT (114803.34276861363 485012.26378913),419420,CurbRamp,7385922,2.0,False,2021-03,False,5,0,0,"[""['missing tactile warning']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2296_9700
+POINT (114804.07160960152 485668.4707541877),415279,CurbRamp,7386932,2.0,False,2022-02,False,0,0,0,"[""['not level with street']""]",filtered_2296_9713
+POINT (114804.3602424247 485300.8872151602),419394,CurbRamp,7386923,2.0,False,2021-03,False,0,0,0,"[""['not level with street']""]",filtered_2296_9706
+POINT (114806.67167160803 485644.6798949654),415332,CurbRamp,7386988,2.0,False,2022-02,False,0,0,0,"[""['not level with street']""]",filtered_2296_9712
+POINT (114807.46111274265 485003.3166428888),419416,CurbRamp,7385879,2.0,False,2020-06,False,2,1,0,"[""['points into traffic', 'not level with street']"", ""['not level with street']""]",filtered_2296_9700
+POINT (114808.9140880273 484998.2113175887),419418,CurbRamp,7385879,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']"", '[]']",filtered_2296_9699
+POINT (114811.0996649453 485705.765914831),414309,CurbRamp,7387026,2.0,False,2022-01,False,0,0,0,"[""['not level with street']""]",filtered_2296_9714
+POINT (114812.0948323156 485440.8955794277),415218,CurbRamp,7386874,2.0,False,2021-03,False,2,1,0,"[""['points into traffic', 'missing tactile warning']"", ""['not level with street']"", ""['not level with street']""]",filtered_2296_9708
+POINT (114812.31510270371 485292.33329423703),419392,CurbRamp,7386926,2.0,False,2019-05,False,1,0,0,"[""['not level with street']""]",filtered_2296_9705
+POINT (114812.62429914947 485701.50891627243),414307,CurbRamp,7387026,2.0,False,2022-01,False,0,0,0,"[""['not level with street']""]",filtered_2296_9714
+POINT (114814.16069121393 485694.7050697264),414300,CurbRamp,7387026,2.0,False,2022-01,False,0,0,0,['[]'],filtered_2296_9713
+POINT (114814.30031542412 485687.91259248025),415343,CurbRamp,7387098,2.0,False,2022-01,False,0,0,0,['[]'],filtered_2296_9713
+POINT (114814.33145573406 485671.7829049999),415281,CurbRamp,7387098,2.0,False,2022-01,False,3,1,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2296_9713
+POINT (114815.69923799824 485444.68637068995),415248,CurbRamp,7386874,2.0,False,2021-03,False,3,0,0,"[""['missing tactile warning', 'points into traffic']""]",filtered_2296_9708
+POINT (114816.14288029974 485682.8040898902),415295,CurbRamp,7387098,2.0,False,2022-01,False,4,0,0,"[""['missing tactile warning']"", '[]', ""['not level with street']"", ""['not level with street']""]",filtered_2296_9713
+POINT (114819.28822898582 485678.10944412026),415280,CurbRamp,7387098,2.0,False,2022-01,False,4,0,0,"[""['missing tactile warning']"", '[]']",filtered_2296_9713
+POINT (114819.8937465428 485197.6173835332),419396,CurbRamp,152988353,2.0,False,2022-02,False,0,0,2,"[""['not level with street']""]",filtered_2296_9703
+POINT (114820.40260835015 485443.79917677207),415230,CurbRamp,149544688,2.0,False,2021-03,False,4,0,0,"[""['missing tactile warning', 'points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2296_9708
+POINT (114824.90766445578 484815.5641521802),419530,CurbRamp,387403770,2.0,False,2020-06,False,1,0,0,"[""['not level with street']""]",filtered_2296_9696
+POINT (114826.65105688294 484894.0747255504),419532,CurbRamp,132486923,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2296_9697
+POINT (114828.72015289831 485224.2864489284),419400,CurbRamp,7386880,2.0,False,2019-05,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2296_9704
+POINT (114829.33675648406 485216.21672257676),419401,CurbRamp,7386880,2.0,False,2019-05,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2296_9704
+POINT (114831.8851255558 484894.456606175),419531,CurbRamp,132486923,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2296_9697
+POINT (114831.91909463801 485397.86394690856),415249,CurbRamp,7386991,2.0,False,2021-03,False,0,0,0,"[""['not level with street']""]",filtered_2296_9707
+POINT (114834.37290416278 485204.29091877094),419398,CurbRamp,152988353,2.0,False,2019-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2296_9704
+POINT (114835.88732535532 485550.2123074351),415219,CurbRamp,7386932,2.0,False,2022-02,False,2,1,0,"['[]', ""['missing tactile warning', 'not level with street']""]",filtered_2296_9711
+POINT (114837.00570731991 485200.44937779754),419399,CurbRamp,152988353,2.0,False,2019-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2296_9704
+POINT (114837.44024374028 485225.9133478946),419402,CurbRamp,7386880,2.0,False,2019-05,False,2,2,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2296_9704
+POINT (114839.06730319836 485549.7619814416),415244,CurbRamp,7386932,2.0,False,2022-02,False,3,0,0,"[""['missing tactile warning', 'steep']""]",filtered_2296_9710
+POINT (114840.76702101421 485219.5194136513),419403,CurbRamp,7386880,2.0,False,2019-05,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2296_9704
+POINT (114842.83544541839 485549.7313323803),415331,CurbRamp,7386932,2.0,False,2022-02,False,4,0,0,"[""['missing tactile warning']""]",filtered_2296_9710
+POINT (114843.99654850109 485552.69309950474),415220,CurbRamp,7386932,2.0,False,2022-02,False,2,1,0,"[""['missing tactile warning']"", ""['not level with street']""]",filtered_2296_9711
+POINT (114844.02680455084 485208.8814426234),419397,CurbRamp,152988353,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2296_9704
+POINT (114846.97412107016 485203.7639740743),419395,CurbRamp,152988353,2.0,False,2019-06,False,3,0,0,"[""['points into traffic']""]",filtered_2296_9704
+POINT (114847.20068713062 485555.21379287227),415310,CurbRamp,7386932,2.0,False,2022-02,False,4,0,0,"[""['missing tactile warning']"", ""['not level with street']"", ""['not level with street']""]",filtered_2296_9711
+POINT (114847.30887578148 484829.38907724473),419526,CurbRamp,132486923,2.0,False,2020-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2296_9696
+POINT (114854.52209086338 485308.9682912076),419391,CurbRamp,7386920,2.0,False,2021-03,False,4,0,1,"[""['steep', 'missing tactile warning']""]",filtered_2297_9706
+POINT (114854.75564309633 485553.4545235198),415278,CurbRamp,7386932,2.0,False,2022-02,False,3,0,0,"[""['missing tactile warning']""]",filtered_2297_9711
+POINT (114855.2415895614 484833.9936225915),419525,CurbRamp,132486921,2.0,False,2020-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2297_9696
+POINT (114856.84785710364 485151.4753142929),419409,CurbRamp,7386895,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2297_9703
+POINT (114857.35094560462 485321.2545877093),415265,CurbRamp,7386991,1.0,False,2019-03,False,0,0,0,"[""['points into traffic']""]",filtered_2297_9706
+POINT (114858.3083209013 485155.2835665292),419410,CurbRamp,7386895,2.0,False,2020-06,False,2,2,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2297_9703
+POINT (114864.22317943891 485235.458118015),419407,CurbRamp,7386880,2.0,False,2022-02,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2297_9704
+POINT (114865.24265226824 484829.2432920627),419533,CurbRamp,132486921,2.0,False,2020-06,False,1,0,0,"[""['not level with street']""]",filtered_2297_9696
+POINT (114866.57628626187 485457.0063207709),415247,CurbRamp,149544688,2.0,False,2022-02,False,0,0,1,"[""['not level with street']""]",filtered_2297_9709
+POINT (114870.837548793 485125.8941034574),419411,CurbRamp,7386895,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']""]",filtered_2297_9702
+POINT (114872.69106768345 485102.10937588057),419572,CurbRamp,160398372,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2297_9702
+POINT (114873.06115246756 485431.48610054585),415246,CurbRamp,7386932,2.0,False,2022-02,False,3,0,0,"[""['missing tactile warning']""]",filtered_2297_9708
+POINT (114875.39782938443 485103.3607554112),419412,CurbRamp,7386895,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2297_9702
+POINT (114876.12161828656 485432.31014625035),415264,CurbRamp,7386932,2.0,False,2022-02,False,3,0,0,"[""['missing tactile warning', 'steep']""]",filtered_2297_9708
+POINT (114876.59725172615 485214.9835504504),419405,CurbRamp,152988353,1.0,False,2022-01,False,0,0,0,['[]'],filtered_2297_9704
+POINT (114876.66389127463 485239.1771368255),419406,CurbRamp,7386880,2.0,False,2022-02,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2297_9704
+POINT (114880.49530704427 485730.6690398171),414308,CurbRamp,7387026,2.0,False,2022-01,False,4,0,0,['[]'],filtered_2297_9714
+POINT (114880.80976931291 485433.5454265129),415268,CurbRamp,7386932,2.0,False,2022-02,False,3,0,0,"[""['missing tactile warning']""]",filtered_2297_9708
+POINT (114882.6495177655 485731.9249112407),414306,CurbRamp,7387026,2.0,False,2022-01,False,5,0,0,['[]'],filtered_2297_9714
+POINT (114883.08715020373 485433.951380928),415291,CurbRamp,7386932,2.0,False,2022-02,False,4,0,0,"[""['missing tactile warning']""]",filtered_2297_9708
+POINT (114886.08234751805 485730.6236420858),414338,CurbRamp,7387026,2.0,False,2022-01,False,4,0,0,"['[]', ""['not level with street']""]",filtered_2297_9714
+POINT (114886.13236910496 485436.8978493727),415260,CurbRamp,7386932,2.0,False,2022-02,False,4,0,0,"[""['missing tactile warning']""]",filtered_2297_9708
+POINT (114888.0293147388 485726.3632357976),414337,CurbRamp,7387026,2.0,False,2022-01,False,4,0,0,"[""['not enough landing space', 'points into traffic']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2297_9714
+POINT (114888.76546223377 485053.166076386),419413,CurbRamp,7386895,2.0,False,2020-06,False,3,1,0,"['[]', '[]']",filtered_2297_9701
+POINT (114888.92304125025 485720.4135521445),414299,CurbRamp,7387026,2.0,False,2022-01,False,4,0,0,"[""['points into traffic']""]",filtered_2297_9714
+POINT (114889.71787193809 485718.28480094275),414336,CurbRamp,7387026,2.0,False,2022-01,False,4,0,0,"['[]', ""['not level with street']"", ""['not level with street']""]",filtered_2297_9714
+POINT (114889.95069883147 485722.95195569453),414314,CurbRamp,7387026,2.0,False,2022-02,False,3,0,0,"[""['points into traffic']""]",filtered_2297_9714
+POINT (114891.26870329434 485721.2434131601),414341,CurbRamp,7387026,3.0,False,2022-02,False,3,0,1,"[""['not level with street']""]",filtered_2297_9714
+POINT (114891.84250487637 485711.9006592224),415299,CurbRamp,7387098,2.0,False,2022-01,False,4,0,0,"['[]', ""['not level with street']""]",filtered_2297_9714
+POINT (114893.01042687215 485043.79351535003),419569,CurbRamp,7386895,2.0,False,2020-06,False,0,0,0,"[""['points into traffic']""]",filtered_2297_9700
+POINT (114893.55230353933 485714.43352197163),415342,CurbRamp,7387098,2.0,False,2022-02,False,0,0,2,"[""['not level with street']""]",filtered_2297_9714
+POINT (114893.96913841664 485709.7610896923),415335,CurbRamp,7387098,2.0,False,2022-01,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2297_9714
+POINT (114894.4514814768 485713.1528414142),415300,CurbRamp,7387098,2.0,False,2022-02,False,4,0,0,"[""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2297_9714
+POINT (114895.77439199589 485708.04859038716),415334,CurbRamp,7387098,2.0,False,2022-01,False,4,0,0,"['[]', '[]', ""['not level with street', 'points into traffic']"", ""['not level with street']""]",filtered_2297_9714
+POINT (114896.00360697249 484844.2738757315),419534,CurbRamp,132486921,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2297_9696
+POINT (114896.44764583567 485702.9496167932),415337,CurbRamp,7387098,2.0,False,2022-02,False,0,0,1,"[""['not level with street']""]",filtered_2297_9714
+POINT (114896.75723035642 485705.06939577224),415336,CurbRamp,7387098,2.0,False,2022-02,False,0,0,0,"[""['not level with street']""]",filtered_2297_9714
+POINT (114898.02183994264 485332.80894050363),419565,CurbRamp,7386919,1.0,False,2021-03,False,0,0,0,['[]'],filtered_2297_9706
+POINT (114899.9907044112 485347.22453765274),415330,CurbRamp,7386932,2.0,False,2022-02,False,3,0,0,"['[]', ""['points into traffic']"", '[]', ""['not level with street']"", ""['not level with street']""]",filtered_2297_9706
+POINT (114900.90478202022 485015.7151610611),419570,CurbRamp,132486922,1.0,False,2019-06,False,0,0,0,['[]'],filtered_2298_9700
+POINT (114903.33177997111 485350.59307240625),415293,CurbRamp,7386932,2.0,False,2022-02,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2298_9707
+POINT (114903.73685568466 485348.4674906731),415294,CurbRamp,7386932,2.0,False,2022-02,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['points into traffic']"", ""['points into traffic']"", ""['not level with street']""]",filtered_2298_9706
+POINT (114907.35995647268 485350.5603625691),415239,CurbRamp,7386932,2.0,False,2021-03,False,4,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2298_9707
+POINT (114909.13483934698 485353.09270180314),415290,CurbRamp,7386932,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['points into traffic']"", ""['not level with street']"", ""['not level with street']""]",filtered_2298_9707
+POINT (114910.0527898347 485350.1140394454),415275,CurbRamp,7386932,2.0,False,2022-02,False,3,0,1,"[""['points into traffic']"", ""['not level with street']""]",filtered_2298_9707
+POINT (114911.69063359186 484987.6133471771),419571,CurbRamp,132486922,1.0,False,2019-06,False,0,0,0,['[]'],filtered_2298_9699
+POINT (114914.25028464232 485350.9288773776),415274,CurbRamp,7386932,2.0,False,2022-02,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2298_9707
+POINT (114914.35463194261 485351.77694712894),415272,CurbRamp,7386932,2.0,False,2021-03,False,6,0,0,"[""['points into traffic']"", ""['points into traffic']"", '[]']",filtered_2298_9707
+POINT (114915.24207158513 485353.0431179223),415273,CurbRamp,7386932,1.0,False,2022-02,False,3,0,0,"['[]', '[]']",filtered_2298_9707
+POINT (114917.71636707042 485329.67781764787),419566,CurbRamp,7386929,2.0,False,2022-02,False,0,0,0,"[""['not level with street', 'points into traffic']""]",filtered_2298_9706
+POINT (114918.10422144328 485353.4443415175),415270,CurbRamp,7386932,2.0,False,2022-02,False,4,0,0,"['[]', '[]']",filtered_2298_9707
+POINT (114918.86664142917 485351.3158602797),415271,CurbRamp,7386932,2.0,False,2022-02,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2298_9707
+POINT (114922.6202866223 485249.4153756934),419540,CurbRamp,7386880,1.0,False,2022-02,False,0,0,1,['[]'],filtered_2298_9704
+POINT (114923.08490452859 485270.6345229876),419541,CurbRamp,7386932,2.0,False,2021-08,False,0,0,0,"[""['not level with street']""]",filtered_2298_9705
+POINT (114926.86899092505 484924.24588831386),419553,CurbRamp,132486922,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2298_9698
+POINT (114926.9254834849 485335.5454871842),415292,CurbRamp,7386929,1.0,False,2022-02,False,0,0,0,['[]'],filtered_2298_9706
+POINT (114928.53867723932 485234.0868418251),419512,CurbRamp,152988353,1.0,False,2022-01,False,0,0,0,['[]'],filtered_2298_9704
+POINT (114928.77525721816 485303.27163602866),419543,CurbRamp,7386921,2.0,False,2022-02,False,0,0,0,"[""['not level with street']""]",filtered_2298_9706
+POINT (114934.06607912605 484926.3097797695),419554,CurbRamp,132486922,2.0,False,2019-06,False,0,0,0,"[""['not level with street']""]",filtered_2298_9698
+POINT (114937.12877187577 485235.71497133654),419510,CurbRamp,152988353,1.0,False,2022-02,False,0,0,0,"[""['points into traffic']""]",filtered_2298_9704
+POINT (114942.60244569462 485277.6919396661),419542,CurbRamp,7386929,1.0,False,2019-05,False,0,0,0,['[]'],filtered_2298_9705
+POINT (114943.75373609955 484882.9364645118),419556,CurbRamp,132486922,1.0,False,2019-06,False,0,0,0,['[]'],filtered_2298_9697
+POINT (114946.32784589235 484863.81497316505),419439,CurbRamp,132486922,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2298_9697
+POINT (114950.28645467406 485187.6444444972),419378,CurbRamp,7386913,2.0,False,2021-03,False,2,1,0,"['[]', ""['not level with street']""]",filtered_2299_9703
+POINT (114952.83071798433 485188.8971839802),419431,CurbRamp,7386913,2.0,False,2021-03,False,4,0,0,"[""['points into traffic']"", '[]', ""['not level with street']"", ""['not level with street']""]",filtered_2299_9703
+POINT (114953.25822155944 484865.0321404311),419440,CurbRamp,132486922,2.0,False,2019-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9697
+POINT (114958.9159920795 485190.12120920216),419509,CurbRamp,7386913,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']""]",filtered_2299_9703
+POINT (114960.78836344849 485192.6527760559),419377,CurbRamp,7386913,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['not level with street']"", ""['not level with street']"", ""['not level with street']""]",filtered_2299_9703
+POINT (114964.16694206311 485192.6253813601),419511,CurbRamp,7386913,2.0,False,2021-03,False,3,0,0,['[]'],filtered_2299_9703
+POINT (114968.53731523379 485194.7122396564),419513,CurbRamp,7386913,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9703
+POINT (114976.04571450401 485347.4563719349),419508,CurbRamp,7386929,2.0,False,2020-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9706
+POINT (114977.83443501155 485071.119533501),419430,CurbRamp,7385922,2.0,False,2021-03,False,3,1,0,"[""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2299_9701
+POINT (114977.88259499939 485077.06155760976),419374,CurbRamp,7385922,2.0,False,2021-03,False,3,0,0,"['[]', '[]', ""['not level with street']""]",filtered_2299_9701
+POINT (114978.61909389295 485067.7175085582),419376,CurbRamp,7385922,2.0,False,2021-03,False,1,0,0,"[""['not level with street']""]",filtered_2299_9701
+POINT (114978.69938284028 485137.7524601504),419539,CurbRamp,7386401,2.0,False,2019-06,False,0,0,0,"[""['points into traffic']"", '[]']",filtered_2299_9702
+POINT (114980.6911143851 485347.41871882934),419544,CurbRamp,7386929,2.0,False,2020-06,False,1,0,0,"[""['not level with street']""]",filtered_2299_9706
+POINT (114981.16034629632 485112.6894803425),419563,CurbRamp,7386913,2.0,False,2021-03,False,0,0,0,"[""['not level with street', 'points into traffic']""]",filtered_2299_9702
+POINT (114981.95074027192 485085.9422087512),419373,CurbRamp,7385922,2.0,False,2021-03,False,0,0,0,"[""['not level with street']""]",filtered_2299_9701
+POINT (114982.34785939462 485058.7736676202),419364,CurbRamp,7385879,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9701
+POINT (114982.37843788984 485054.5288382363),419358,CurbRamp,7385879,2.0,False,2021-03,False,2,0,1,"[""['points into traffic']""]",filtered_2299_9701
+POINT (114984.12652787648 485322.347832202),419506,CurbRamp,7386921,2.0,False,2019-05,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9706
+POINT (114984.91891106268 485083.37140600523),419371,CurbRamp,7385922,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9701
+POINT (114985.29197159773 485053.2318532978),419363,CurbRamp,7385879,1.0,False,2021-03,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2299_9701
+POINT (114985.3516006938 485048.56233044737),419362,CurbRamp,7385879,2.0,False,2021-03,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2299_9700
+POINT (114985.39002197588 485321.91313434317),419507,CurbRamp,7386921,2.0,False,2020-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9706
+POINT (114986.01042431264 484873.255804727),419555,CurbRamp,387403776,1.0,False,2020-06,False,0,0,0,['[]'],filtered_2299_9697
+POINT (114986.34063456897 485138.53945056826),419562,CurbRamp,7386401,1.0,False,2019-06,False,0,0,0,['[]'],filtered_2299_9702
+POINT (114986.95718285583 485086.32609637245),419370,CurbRamp,7386913,2.0,False,2021-03,False,2,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9701
+POINT (114991.61658377078 485087.9861753738),419368,CurbRamp,7386913,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9701
+POINT (114991.91960382558 485321.86022303766),419505,CurbRamp,7386929,2.0,False,2020-06,False,2,0,0,"[""['not level with street']""]",filtered_2299_9706
+POINT (114992.52530397612 484875.3253096438),419442,CurbRamp,387403776,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2299_9697
+POINT (114993.92824282058 485048.4928378689),419359,CurbRamp,7385879,2.0,False,2021-03,False,1,0,0,"[""['not level with street']""]",filtered_2299_9700
+POINT (114994.09591322682 485089.239462431),419369,CurbRamp,7386913,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2299_9701
+POINT (114995.10398833174 485301.88487998565),419504,CurbRamp,7386929,2.0,False,2019-05,False,3,0,0,"[""['points into traffic']""]",filtered_2299_9706
+POINT (114995.76472274549 485050.6002503527),419361,CurbRamp,7385879,2.0,False,2021-03,False,0,0,0,"[""['not level with street']""]",filtered_2299_9701
+POINT (115000.41369038372 485087.06599076296),419367,CurbRamp,7386459,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2300_9701
+POINT (115000.57627630656 485050.98573098215),419357,CurbRamp,132486924,2.0,False,2021-03,False,4,0,0,"[""['points into traffic', 'not level with street']"", ""['not level with street']""]",filtered_2300_9701
+POINT (115007.77658622328 485053.4741601417),419356,CurbRamp,132486924,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2300_9701
+POINT (115009.96798003004 485079.3483593229),419372,CurbRamp,7386459,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']""]",filtered_2300_9701
+POINT (115010.88838867881 485008.45639918867),419560,CurbRamp,132486924,1.0,False,2020-06,False,0,0,0,['[]'],filtered_2300_9700
+POINT (115011.28620169885 485077.63985130773),419375,CurbRamp,7386459,2.0,False,2021-03,False,4,0,0,"[""['points into traffic']""]",filtered_2300_9701
+POINT (115012.23289919771 485022.02817047),419561,CurbRamp,132486924,1.0,False,2020-06,False,0,0,0,['[]'],filtered_2300_9700
+POINT (115015.50576225908 485069.1165193918),419360,CurbRamp,7386503,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']""]",filtered_2300_9701
+POINT (115018.32495147965 485060.18007150566),419366,CurbRamp,7386503,2.0,False,2021-03,False,3,0,0,"['[]', '[]', ""['not level with street']""]",filtered_2300_9701
+POINT (115018.33370240632 485065.2734982039),419365,CurbRamp,7386503,2.0,False,2021-03,False,3,0,0,"[""['points into traffic']"", '[]']",filtered_2300_9701
+POINT (115024.08717435971 484881.01212111337),419441,CurbRamp,387403772,2.0,False,2020-06,False,4,0,0,"[""['points into traffic']""]",filtered_2300_9697
+POINT (115027.49958630785 484957.386940025),419559,CurbRamp,132486924,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2300_9699
+POINT (115032.86747216657 485158.9610952241),419564,CurbRamp,7386401,1.0,False,2019-06,False,0,0,0,['[]'],filtered_2300_9703
+POINT (115034.14772417853 484959.87987818965),419558,CurbRamp,132486924,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2300_9699
+POINT (115045.24980617623 484902.48820729845),419437,CurbRamp,132486924,2.0,False,2020-06,False,3,0,0,"[""['points into traffic']""]",filtered_2300_9698
+POINT (115046.19169637436 484894.4158850084),419434,CurbRamp,387403775,2.0,False,2019-06,False,3,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2300_9697
+POINT (115046.49114685469 485104.09574149584),419573,CurbRamp,7386401,1.0,False,2019-06,False,0,0,0,['[]'],filtered_2300_9702
+POINT (115052.00678957437 485095.1374960508),419574,CurbRamp,7386401,1.0,False,2019-06,False,0,0,0,"[""['points into traffic']""]",filtered_2301_9701
+POINT (115052.25537870324 484904.9782782944),419435,CurbRamp,132486924,2.0,False,2020-06,False,3,0,0,"[""['points into traffic']""]",filtered_2301_9698
+POINT (115055.73479858637 484897.3098891003),419433,CurbRamp,132486924,2.0,False,2019-06,False,4,0,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2301_9697
+POINT (115097.117477252 485093.0749241497),419352,CurbRamp,7386503,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2301_9701
+POINT (115099.28136428643 484910.54049436434),419436,CurbRamp,387403775,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2301_9698
+POINT (115100.45390762693 485115.96870078193),419423,CurbRamp,29291539,2.0,False,2020-06,False,4,0,0,"['[]', '[]', ""['not level with street']""]",filtered_2302_9702
+POINT (115101.15652221086 485110.44506832084),419350,CurbRamp,29291539,2.0,False,2020-06,False,4,0,0,"[""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2302_9702
+POINT (115101.46475249267 484903.30706810264),419438,CurbRamp,387403775,2.0,False,2020-06,False,0,0,0,"[""['not level with street']""]",filtered_2302_9698
+POINT (115101.65175384626 485083.27574965823),419354,CurbRamp,7385528,1.0,False,2020-06,False,0,0,0,['[]'],filtered_2302_9701
+POINT (115104.12473934684 485107.8743372465),419425,CurbRamp,29291539,2.0,False,2020-06,False,3,0,0,"[""['points into traffic']"", '[]', ""['not level with street']""]",filtered_2302_9702
+POINT (115107.78366950882 485102.3268213084),419351,CurbRamp,7386503,1.0,False,2020-06,False,3,0,0,['[]'],filtered_2302_9702
+POINT (115108.12045273813 485099.7773520706),419424,CurbRamp,7386503,2.0,False,2020-06,False,3,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2302_9701
+POINT (115109.80617414704 485091.2745725586),419353,CurbRamp,7386503,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']""]",filtered_2302_9701
+POINT (115111.08508269527 485088.7174929311),419355,CurbRamp,7386503,2.0,False,2020-06,False,3,0,0,"['[]', ""['not level with street']""]",filtered_2302_9701
+POINT (115128.34594599938 484989.2549145704),419557,CurbRamp,7385528,2.0,False,2020-06,False,0,0,1,"[""['not level with street']""]",filtered_2302_9699
+POINT (115133.62265446199 484990.9101434556),419432,CurbRamp,7385528,2.0,False,2020-06,False,2,1,0,"[""['points into traffic']"", ""['not level with street']""]",filtered_2302_9699
+POINT (114351.23710423606 486076.2635735348),419086,NoCurbRamp,7387014,5.0,False,2019-06,False,7,2,1,"[""['unclear if needed']""]",filtered_2287_9721
+POINT (114438.30040757026 485820.4473919997),414467,NoCurbRamp,7387028,4.0,False,2020-06,False,9,0,0,"[""['no alternate route']""]",filtered_2288_9716
+POINT (114495.12350040453 486264.814276629),419085,NoCurbRamp,7386975,3.0,False,2019-06,False,1,1,0,"[""['no alternate route']""]",filtered_2289_9725
+POINT (114502.2903484816 485245.6291004572),415449,NoCurbRamp,7385900,3.0,False,2021-03,False,1,1,0,"[""['no alternate route']""]",filtered_2290_9704
+POINT (114505.13953452907 485826.690048501),414465,NoCurbRamp,7387028,5.0,False,2020-06,False,4,1,1,"[""['no alternate route']""]",filtered_2290_9716
+POINT (114514.64422181755 485999.367008409),414462,NoCurbRamp,165580483,5.0,False,2014-06,False,5,0,0,"[""['no alternate route']""]",filtered_2290_9719
+POINT (114596.38121513298 486179.0925801043),419089,NoCurbRamp,200449138,3.0,False,2020-06,False,2,1,0,"[""['alternate route present']""]",filtered_2291_9723
+POINT (114606.52896295389 485227.79692346585),419737,NoCurbRamp,7386883,3.0,False,2019-06,False,2,1,0,"[""['no alternate route']""]",filtered_2292_9704
+POINT (114639.39896741527 486156.66879794415),419088,NoCurbRamp,7386969,3.0,False,2019-06,False,2,1,0,"[""['alternate route present']""]",filtered_2292_9723
+POINT (114654.4872322463 485244.38317604904),419738,NoCurbRamp,7386877,3.0,False,2019-06,False,5,2,0,"[""['unclear if needed', 'no alternate route']""]",filtered_2293_9704
+POINT (114659.75269796666 484687.87522082834),419745,NoCurbRamp,7385700,3.0,False,2019-04,False,6,0,0,"[""['no alternate route']""]",filtered_2293_9693
+POINT (114667.29893605167 484672.95754917414),419740,NoCurbRamp,7385700,3.0,False,2019-04,False,4,4,0,"[""['no alternate route']""]",filtered_2293_9693
+POINT (114693.90635167694 485691.4407523037),414463,NoCurbRamp,7386890,2.0,False,2018-06,False,5,4,1,['[]'],filtered_2293_9713
+POINT (114710.1841671716 485890.80360589485),414460,NoCurbRamp,7387028,5.0,False,2020-06,False,4,3,0,"[""['no alternate route']""]",filtered_2294_9717
+POINT (114723.50944347672 485732.3716795582),414464,NoCurbRamp,7387016,2.0,False,2019-03,False,1,1,0,"[""['alternate route present']""]",filtered_2294_9714
+POINT (114729.91258822536 485533.6727149388),415450,NoCurbRamp,163146291,3.0,False,2019-05,False,1,0,0,"[""['no alternate route']""]",filtered_2294_9710
+POINT (114736.77178507944 485860.87456626666),414459,NoCurbRamp,7387038,3.0,False,2020-06,False,1,1,0,"[""['alternate route present']""]",filtered_2294_9717
+POINT (114744.81692366302 485859.53558366804),414461,NoCurbRamp,7387038,2.0,False,2020-06,False,1,0,0,"[""['alternate route present']""]",filtered_2294_9717
+POINT (114761.92414461268 484630.1643031741),419739,NoCurbRamp,7385705,3.0,False,2020-08,False,2,0,0,"[""['no alternate route']""]",filtered_2295_9692
+POINT (114779.4946683743 485753.9871355143),414466,NoCurbRamp,7387038,2.0,False,2020-06,False,3,1,1,"[""['alternate route present']""]",filtered_2295_9715
+POINT (114985.04644011159 485323.61375217896),419743,NoCurbRamp,7386921,3.0,False,2020-06,False,7,1,0,"[""['no alternate route']"", ""['no alternate route']""]",filtered_2299_9706
+POINT (114998.66673200695 485292.51793280186),419744,NoCurbRamp,7386929,3.0,False,2019-05,False,6,2,0,"[""['no alternate route']""]",filtered_2299_9705
+POINT (115109.1838640149 485094.67526436556),419742,NoCurbRamp,7386503,2.0,False,2020-06,False,7,0,0,"[""['no alternate route']"", '[]']",filtered_2302_9701
+POINT (115146.78958134519 484927.5596289039),419741,NoCurbRamp,7385528,3.0,False,2020-06,False,5,2,0,"[""['no alternate route']"", ""['alternate route present']""]",filtered_2302_9698
