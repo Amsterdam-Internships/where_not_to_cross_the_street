@@ -2,7 +2,7 @@
 
 This repository contains the code related to the MSc thesis Where (not) to Cross the Street: automatically detecting crosswalks for accessible navigation. The thesis introduces a method to refine crosswalk polygons from automatic crosswalk detection methods by using 3D LiDAR point clouds. Effectively, the framework attempts to remove false positive polygons and makes true positive polygons more accurate in their shape and size.
 
-![overview](flowchart.png)
+![flowchart](flowchart.png)
 
 The framework consists of 6 steps.
 
