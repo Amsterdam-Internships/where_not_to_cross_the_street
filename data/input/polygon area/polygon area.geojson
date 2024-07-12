@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "polygon area small",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114372.210926024185028, 485537.844041399715934 ], [ 114404.614094048985862, 485545.960204927891027 ], [ 114408.303259288994013, 485532.925154413154814 ], [ 114375.039286041515879, 485525.546823933138512 ], [ 114372.210926024185028, 485537.844041399715934 ] ] ] ] } }
+]
+}
